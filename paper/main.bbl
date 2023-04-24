@@ -16,5 +16,132 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}\enddatalist
+\datalist[entry]{nyt/global//global/global}
+  \entry{bmwk_uberblickspapier_2022}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BBfWuK}{%
+         family={BMWK},
+         familyi={B\bibinitperiod},
+         given={Bundesministerium für Wirtschaft und\bibnamedelima Klimaschutz},
+         giveni={B\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \strng{namehash}{BBfWuK1}
+    \strng{fullhash}{BBfWuK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Überblickspapier {Corona}-{Hilfen} {Rückblick} – {Bilanz}- {Lessons} {Learned}}
+    \verb{url}
+    \verb https://www.bmwk.de/Redaktion/DE/Downloads/C-D/Corona/ueberblickspapi
+    \verb er-corona-hilfen.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/marco/Zotero/storage/XKDUTAXS/ueberblickspapier-coron
+    \verb a-hilfen.html:text/html;Überblickspapier Corona-Hilfen Rückblick �
+    \verb � Bilanz- Lessons Learned:/Users/marco/Zotero/storage/WURJHSYR/ueberb
+    \verb lickspapier-corona-hilfen.pdf:application/pdf
+    \endverb
+    \field{month}{06}
+    \field{year}{2022}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{claici_european_2022}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=CA}{%
+         family={Claici},
+         familyi={C\bibinitperiod},
+         given={Adina},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EL}{%
+         family={Eymard},
+         familyi={E\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Vallée},
+         familyi={V\bibinitperiod},
+         given={Shahin},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CAELVS1}
+    \strng{fullhash}{CAELVS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    In the aftermath of the European response to covid-19, certain issues may require more scrutiny by policy makers in order to minimise the risks of distortions inherent to any public intervention.%
+    }
+    \field{shorttitle}{European {Union}}
+    \field{title}{European {Union}: economists’ perspective on state aid}
+    \verb{url}
+    \verb https://globalcompetitionreview.com/review/the-european-middle-east-a
+    \verb nd-african-antitrust-review/2023/article/european-union-economists-pe
+    \verb rspective-state-aid
+    \endverb
+    \verb{file}
+    \verb European Union economists’ perspective on state a.pdf:/Users/marco/
+    \verb Zotero/storage/UGTEYL4D/European Union economists’ perspective on s
+    \verb tate a.pdf:application/pdf;Snapshot:/Users/marco/Zotero/storage/QVUEX
+    \verb KYZ/european-union-economists-perspective-state-aid.html:text/html
+    \endverb
+    \field{month}{06}
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{eu_com_temporary_2020}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{EU COM}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Temporary {Framework} for {State} aid measures to support the economy in the current {COVID}-19 outbreak 2020/{C} 91 {I}/01}
+    \verb{url}
+    \verb https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:JOC_2020_091_I
+    \verb _0001
+    \endverb
+    \verb{file}
+    \verb EUR-Lex HTML (EN):/Users/marco/Zotero/storage/QC7KJRB4/HTML.html:text
+    \verb /html;EUR-Lex PDF (EN):/Users/marco/Zotero/storage/VZ7VFY34/2020 - Co
+    \verb mmunication from the Commission Temporary Framew.pdf:application/pdf
+    \endverb
+    \field{year}{2020}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+\enddatalist
 \endinput
