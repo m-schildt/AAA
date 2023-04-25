@@ -2,8 +2,8 @@ This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: biblatex.bst
-A level-1 auxiliary file: Chapters/Chapter1_LitRev.aux
-A level-1 auxiliary file: Chapters/Chapter2_SupOverview.aux
+A level-1 auxiliary file: Chapters/Chapter1_SupOverview.aux
+A level-1 auxiliary file: Chapters/Chapter2_LitRev.aux
 A level-1 auxiliary file: Chapters/Chapter3_DataSource.aux
 A level-1 auxiliary file: Chapters/Chapter4_Methods.aux
 A level-1 auxiliary file: Chapters/Chapter5_Results.aux
@@ -29,44 +29,44 @@ Database file #2: library.bib
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 4 entries,
+You've used 13 entries,
             6399 wiz_defined-function locations,
-            1232 strings with 10906 characters,
-and the built_in function-call counts, 27196 in all, are:
-= -- 1689
-> -- 1202
-< -- 145
-+ -- 1207
-- -- 878
-* -- 1850
-:= -- 3351
+            1298 strings with 20067 characters,
+and the built_in function-call counts, 118832 in all, are:
+= -- 8782
+> -- 3367
+< -- 514
++ -- 4774
+- -- 2281
+* -- 8361
+:= -- 14445
 add.period$ -- 0
-call.type$ -- 4
-change.case$ -- 39
-chr.to.int$ -- 126
-cite$ -- 6
-duplicate$ -- 2208
-empty$ -- 2287
-format.name$ -- 183
-if$ -- 5044
+call.type$ -- 13
+change.case$ -- 194
+chr.to.int$ -- 240
+cite$ -- 24
+duplicate$ -- 11776
+empty$ -- 9825
+format.name$ -- 897
+if$ -- 22410
 int.to.chr$ -- 0
-int.to.str$ -- 9
+int.to.str$ -- 39
 missing$ -- 0
-newline$ -- 147
-num.names$ -- 138
-pop$ -- 1068
+newline$ -- 592
+num.names$ -- 597
+pop$ -- 4460
 preamble$ -- 1
-purify$ -- 51
+purify$ -- 271
 quote$ -- 0
-skip$ -- 680
+skip$ -- 2503
 stack$ -- 0
-substring$ -- 3529
-swap$ -- 594
-text.length$ -- 141
-text.prefix$ -- 3
+substring$ -- 16892
+swap$ -- 2442
+text.length$ -- 453
+text.prefix$ -- 14
 top$ -- 1
-type$ -- 124
+type$ -- 416
 warning$ -- 0
-while$ -- 347
+while$ -- 1668
 width$ -- 0
-write$ -- 144
+write$ -- 580

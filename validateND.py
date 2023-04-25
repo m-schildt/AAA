@@ -9,7 +9,7 @@ def validate_north_data(name, code):
     
     search_url = url + name + '+' + code
     search_url = re.sub(r" ", "+", search_url)
-    r = requests.get(search_url)
+    r = requests.get(search_url) # search northdata for company name
     
     try:
         soup = bs4.BeautifulSoup(r.text, "lxml")
@@ -20,7 +20,7 @@ def validate_north_data(name, code):
 
         code = [int(s) for s in str.split(code) if s.isdigit()][0]
 
-        if code == registerNr:
+        if code == registerNr: # validate that register number is maching
             return name
         #else:
         #    return None

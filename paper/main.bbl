@@ -17,6 +17,68 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{bellucci_consequences_2022}{report}{}
+    \name{author}{5}{}{%
+      {{hash=BC}{%
+         family={Bellucci},
+         familyi={B\bibinitperiod},
+         given={Chiara},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Carta},
+         familyi={C\bibinitperiod},
+         given={Silvia},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TSD}{%
+         family={Tollis},
+         familyi={T\bibinitperiod},
+         given={Sara\bibnamedelima De},
+         giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GFD}{%
+         family={Giacomo},
+         familyi={G\bibinitperiod},
+         given={Federica\bibnamedelima Di},
+         giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Curto},
+         familyi={C\bibinitperiod},
+         given={Donato},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BC+1}
+    \strng{fullhash}{BCCSTSDGFDCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    The economic recession triggered by the Covid-19 pandemic has generated a negative impact on ﬁrms’ liquidity needs, induced both by the rigidity of costs and ﬁnancial commitments and by the drop in sales linked to the restrictions on economic activities imposed during the periods of pandemic propagation. This paper analyzes these eﬀects on the liquidity needs of Italian ﬁrms, before and after the government support interventions, focusing on non-ﬁnancial ﬁrms with revenues up to EUR 50 million and with fewer than 250 employees. By constructing a new dataset that integrates information from multiple sources, we show that government measures have strongly contributed to mitigate the eﬀects of the crisis, almost halving the percentage of companies in liquidity crisis at the end of 2020 (from 38.1\% to 18.2\%) and limiting the liquidity requirements of companies from 83.7 to 26.5 billion. The access to public guarantee schemes on loans would have further reduced the deﬁcit to EUR 18.5 billion. Debt standstills and ﬁxed cost refunds have been very eﬀective in supporting ﬁrms, that have actually recorded a liquidity deﬁcit due to pandemic crisis.%
+    }
+    \field{number}{15}
+    \field{title}{The consequences of {COVID}-19 crisis on ﬁrms’ liquidity needs}
+    \list{institution}{1}{%
+      {Dipartimento delle Finanze}%
+    }
+    \verb{file}
+    \verb Bellucci et al. - The consequences of COVID-19 crisis on ﬁrms’ li
+    \verb qui.pdf:/Users/marco/Zotero/storage/CVCWSUB8/Bellucci et al. - The co
+    \verb nsequences of COVID-19 crisis on ﬁrms’ liqui.pdf:application/pdf
+    \endverb
+    \field{type}{Working {Papers}}
+    \field{month}{09}
+    \field{year}{2022}
+  \endentry
+
   \entry{bmwk_uberblickspapier_2022}{misc}{}
     \name{author}{1}{}{%
       {{hash=BBfWuK}{%
@@ -110,6 +172,104 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{demmou_insolvency_2021}{report}{}
+    \name{author}{5}{}{%
+      {{hash=DL}{%
+         family={Demmou},
+         familyi={D\bibinitperiod},
+         given={Lilas},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Calligaris},
+         familyi={C\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Franco},
+         familyi={F\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dlugosch},
+         familyi={D\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MMA}{%
+         family={McGowan},
+         familyi={M\bibinitperiod},
+         given={Müge\bibnamedelima Adalet},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{DL+1}
+    \strng{fullhash}{DLCSFGDDMMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1651}
+    \field{title}{Insolvency and debt overhang following the {COVID}-19 outbreak: assessment of risks and policy responses}
+    \verb{url}
+    \verb https://www.oecd-ilibrary.org/economics/insolvency-and-debt-overhang-
+    \verb following-the-covid-19-outbreak-assessment-of-risks-and-policy-respon
+    \verb ses_747a8226-en
+    \endverb
+    \verb{file}
+    \verb Demmou et al. - INSOLVENCY AND DEBT OVERHANG FOLLOWING THE COVID-1.pd
+    \verb f:/Users/marco/Zotero/storage/IIQ57E8S/Demmou et al. - INSOLVENCY AND
+    \verb  DEBT OVERHANG FOLLOWING THE COVID-1.pdf:application/pdf
+    \endverb
+    \field{type}{{OECD} {Economics} {Department} {Working} {Papers}}
+    \field{year}{2021}
+    \field{urlday}{04}
+    \field{urlmonth}{08}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{dhyne_belgian_2021}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DE}{%
+         family={Dhyne},
+         familyi={D\bibinitperiod},
+         given={E},
+         giveni={E},
+      }}%
+      {{hash=DC}{%
+         family={Duprez},
+         familyi={D\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{DEDC1}
+    \strng{fullhash}{DEDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Belgian firms and the {COVID}-19 crisis}
+    \verb{file}
+    \verb Dhyne and Duprez - 2021 - Belgian firms and the COVID-19 crisis.pdf:/
+    \verb Users/marco/Zotero/storage/E39IB6HU/Dhyne and Duprez - 2021 - Belgian
+    \verb  firms and the COVID-19 crisis.pdf:application/pdf
+    \endverb
+    \field{year}{2021}
+  \endentry
+
   \entry{eu_com_temporary_2020}{misc}{}
     \name{author}{1}{}{%
       {{hash=E}{%
@@ -142,6 +302,291 @@
     \field{urlday}{24}
     \field{urlmonth}{04}
     \field{urlyear}{2023}
+  \endentry
+
+  \entry{eu_com_state_2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{EU COM}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{State {Aid} {Transparency}}
+    \verb{url}
+    \verb https://webgate.ec.europa.eu/competition/transparency/public?lang=en
+    \endverb
+    \verb{file}
+    \verb State Aid Transparency Public Search:/Users/marco/Zotero/storage/DHKC
+    \verb HM8J/public.html:text/html
+    \endverb
+    \field{year}{2023}
+    \field{urlday}{25}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{fernandez-cerezo_firm-level_2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FCA}{%
+         family={Fernández-Cerezo},
+         familyi={F\bibinithyphendelim C\bibinitperiod},
+         given={Alejandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={González},
+         familyi={G\bibinitperiod},
+         given={Beatriz},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Izquierdo},
+         familyi={I\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MBE}{%
+         family={Moral-Benito},
+         familyi={M\bibinithyphendelim B\bibinitperiod},
+         given={Enrique},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{FCA+1}
+    \strng{fullhash}{FCAGBIMMBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{issn}{1579-8666}
+    \field{title}{Firm-level heterogeneity in the impact of the {COVID}-19 pandemic}
+    \verb{file}
+    \verb Fernández-Cerezo et al. - Firm-level heterogeneity in the impact of
+    \verb the COVI.pdf:/Users/marco/Zotero/storage/N4QCAP6Q/Fernández-Cerezo e
+    \verb t al. - Firm-level heterogeneity in the impact of the COVI.pdf:applic
+    \verb ation/pdf
+    \endverb
+    \field{journaltitle}{Documentos de Trabajo. N.º 2120}
+    \field{month}{05}
+    \field{year}{2021}
+  \endentry
+
+  \entry{pagano_covid-19_2022}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=PM}{%
+         family={Pagano},
+         familyi={P\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zechner},
+         familyi={Z\bibinitperiod},
+         given={Josef},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19, corporate culture, credit supply, financial flexibility, firm resilience, government support, leverage, pandemic, Paycheck Protection Program, public loan guarantees, social distancing}
+    \strng{namehash}{PMZJ1}
+    \strng{fullhash}{PMZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    We distill evidence about the effects of COVID-19 on companies. Stock price reactions to the shock differed greatly across firms, depending on their resilience to social distancing, financial flexibility, and corporate culture. The same characteristics affected the response of firms' sales, employment, and asset growth. Despite the shock, firms expanded their balance sheets and liquidity by raising funds from banks, bonds, and equity markets. While listed firms reduced their leverage, unlisted ones, especially small and medium enterprises, increased it. Government support programs helped firms access external funding. We conclude by identifying unexplored research issues regarding the long-run effects of COVID-19 on companies.%
+    }
+    \verb{doi}
+    \verb 10.2139/ssrn.4185703
+    \endverb
+    \field{title}{{COVID}-19 and {Corporate} {Finance}}
+    \verb{url}
+    \verb https://papers.ssrn.com/abstract=4185703
+    \endverb
+    \list{location}{1}{%
+      {Rochester, NY}%
+    }
+    \verb{file}
+    \verb Full Text PDF:/Users/marco/Zotero/storage/KC6U4B9J/Pagano and Zechner
+    \verb  - 2022 - COVID-19 and Corporate Finance.pdf:application/pdf
+    \endverb
+    \field{type}{{SSRN} {Scholarly} {Paper}}
+    \field{month}{08}
+    \field{year}{2022}
+    \field{urlday}{14}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{peichl_eigenkapitalentwicklung_2021}{article}{}
+    \name{author}{6}{}{%
+      {{hash=PA}{%
+         family={Peichl},
+         familyi={P\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sauer},
+         familyi={S\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lautenbacher},
+         familyi={L\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Rumscheidt},
+         familyi={R\bibinitperiod},
+         given={Sabine},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Miethe},
+         familyi={M\bibinitperiod},
+         given={Jakob},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Steffens},
+         familyi={S\bibinitperiod},
+         given={Sascha},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \strng{namehash}{PA+1}
+    \strng{fullhash}{PASSLSRSMJSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Eigenkapitalentwicklung im {Zeichen} der {Coronakrise}}
+    \field{volume}{Impulse für die Wirtschaft}
+    \verb{file}
+    \verb Eigenkapitalentwicklung im Zeichen der Coronakrise.pdf:/Users/marco/Z
+    \verb otero/storage/4L32B3ZR/Eigenkapitalentwicklung im Zeichen der Coronak
+    \verb rise.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{ifo-Studie im Auftrag der IHK für München und Oberbayern}
+    \field{year}{2021}
+  \endentry
+
+  \entry{puhr_have_2021}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PC}{%
+         family={Puhr},
+         familyi={P\bibinitperiod},
+         given={Claus},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19 pandemic, bankruptcy, firm-level data, forecasting, insolvencies}
+    \strng{namehash}{PCSM1}
+    \strng{fullhash}{PCSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    We employ a novel modeling approach to capture the impact of the COVID-19 pandemic on sectoral insolvency rates in Austria. Turnover shocks derived from a macroeconomic scenario generate stress to firms’ profits and cash flows. Over time, both the equity and the liquidity (cash and bank) positions deteriorate, which causes insolvencies if firms fall under certain thresholds. Our model builds on data for nonfinancial incorporated Austrian enterprises available from the BACH and SABINA databases. Since only two firm-level variables (equity ratio, cash and bank) are available at sufficient coverage, we generate a hypothetical firmlevel dataset for 17 NACE 1 sectors by using a Monte Carlo simulation. The granularity of our model allows us to assess the impact of mitigating measures implemented in light of the COVID-19 shock. Such measures serve to cushion the loss of companies’ revenue and households’ income triggered by the COVID-19 containment measures. Put differently, they are meant to minimize the damage resulting from the deliberate temporary reduction in economic activity. In our analysis, we only investigate measures aimed at firms. These measures include equity injections via grants and subsidies (e.g. short-time work), longterm payment deferrals (e.g. credit guarantees) and short-term payment deferrals (e.g. social security contributions). We used all available data sources to calibrate the mitigating measures, with August 31, 2020, as cutoff date. The model indicates a marked increase of COVID-19-induced insolvency rates, but mitigating measures reduce such insolvencies substantially. Without mitigating measures, the insolvency rate would rise to 5.8\% by the end of 2020, more than quintupling its pre-crisis average (2017–2019: 1.0\%). By end-2022, 9.9\% of all Austrian firms would fail, which corresponds to an annual insolvency rate of 3.3\%. With mitigating measures in place, the insolvency rate is significantly lower, reaching 2.1\% by end-2020, and 6.9\% by end-2022. Projected insolvency rates should be interpreted with caution. The merit of this novel approach, however, lies less in the calculated sectoral insolvency rates themselves, but in the model’s capacity to compare and rank the efficiency and efficacy of various mitigating measures. As to the current measures, we, for instance, find that credit guarantees appear most effective, followed by fixed cost support and short-time work. In the short term, delayed filing for insolvency is most efficient, but is set to mostly reverse itself in 2021, once public institutions recommence their usual practice. At the OeNB, the model has also been used to assess implementation delays and the extension of mitigating measures. We intend to continuously extend the model, both in terms of its core functionality and the calibration of mitigating measures to address questions from (1) a macroeconomic perspective, in particular the loss of productive capacities (potential output), (2) a fiscal policy perspective, to estimate the costs of mitigating measures, and (3) a macro- and microprudential banking supervisory perspective, to provide a basis for estimating credit default probabilities for the banking system.%
+    }
+    \field{note}{Publisher: Oesterreichische Nationalbank (Austrian Central Bank)}
+    \field{number}{Q4/20-Q1/21}
+    \field{pages}{77\bibrangedash 110}
+    \field{title}{Have mitigating measures helped prevent insolvencies in {Austria} amid the {COVID}-19 pandemic?}
+    \verb{url}
+    \verb https://ideas.repec.org//a/onb/oenbmp/y2021iq4-20-q1-21b4.html
+    \endverb
+    \verb{file}
+    \verb Fullext PDF:/Users/marco/Zotero/storage/V52VGM6K/Puhr and Schneider -
+    \verb  2021 - Have mitigating measures helped prevent insolvenci.pdf:applic
+    \verb ation/pdf;Snapshot:/Users/marco/Zotero/storage/CVGSNW3P/y2021iq4-20-q
+    \verb 1-21b4.html:text/html
+    \endverb
+    \field{journaltitle}{Monetary Policy \& the Economy}
+    \field{year}{2021}
+    \field{urlday}{11}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{tielens_belgian_2020}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TJ}{%
+         family={Tielens},
+         familyi={T\bibinitperiod},
+         given={Joris},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Piette},
+         familyi={P\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JOD}{%
+         family={Jonghe},
+         familyi={J\bibinitperiod},
+         given={Olivier\bibnamedelima De},
+         giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{TJPCJOD1}
+    \strng{fullhash}{TJPCJOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Belgian corporate sector liquidity and solvency in the {COVID}-19 crisis: a post-first-wave assessment}
+    \verb{file}
+    \verb Tielens et al. - 2020 - Belgian corporate sector liquidity and solven
+    \verb cy in.pdf:/Users/marco/Zotero/storage/QVKK36SB/Tielens et al. - 2020
+    \verb - Belgian corporate sector liquidity and solvency in.pdf:application/
+    \verb pdf
+    \endverb
+    \field{year}{2020}
   \endentry
 \enddatalist
 \endinput

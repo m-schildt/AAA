@@ -1,12 +1,12 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Executive Summary}{iii}{section*.1}%
-\contentsline {chapter}{\numberline {1}Literature Review}{1}{chapter.7}%
-\contentsline {section}{\numberline {1.1}Pandemic effects}{1}{section.8}%
-\contentsline {section}{\numberline {1.2}Government support effects}{2}{section.9}%
-\contentsline {chapter}{\numberline {2}Government support in Germany}{3}{chapter.10}%
+\contentsline {chapter}{\numberline {1}Introduction to the government support in Germany}{1}{chapter.7}%
+\contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.9}%
+\contentsline {section}{\numberline {2.1}Pandemic effects}{3}{section.10}%
+\contentsline {section}{\numberline {2.2}Government support effects}{4}{section.11}%
 \contentsline {chapter}{\numberline {3}Data Sources}{7}{chapter.12}%
 \contentsline {section}{\numberline {3.1}Data on Government support}{7}{section.13}%
-\contentsline {section}{\numberline {3.2}Company level financial information}{8}{section.14}%
+\contentsline {section}{\numberline {3.2}Company level financial information}{7}{section.14}%
 \contentsline {chapter}{\numberline {4}Methods}{9}{chapter.15}%
 \contentsline {section}{\numberline {4.1}KPI}{9}{section.16}%
 \contentsline {section}{\numberline {4.2}Diff and Diff}{10}{section.17}%
