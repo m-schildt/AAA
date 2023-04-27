@@ -8,22 +8,38 @@
 %	SECTION 1
 %----------------------------------------------------------------------------------------
 
-\section{KPI}
+\section{Balance Sheet Ratios}
 
-Research unambiguous concluded that COVID-19 crisis negatively influenced the economy in countries around the world. Many businesses were severely affected by drops in demand and lockdowns by the authorities. The pandemic shock leads to negative cash flows for many firms (Fernández-Cerezo et al. 2021). Depending on the affectedness of the business and the cash holding, liquidity shortfalls are inescapable. 
-Without continuation of their business and positive cash flows, firm’s equity and the liquidity (cash and bank) positions will inevitably deteriorate. At some point, firms are in need of Liquidity injection, either through additional equity or via debt. However, debt, if obtainable, increases the firms leverage and could make the firm vulnerable to new liquidity shortfalls. And, additional leverage only prevents from insolvency if there is a prospect that future cash flows will enable a firm to service the additional debt.
-The effect of the COVID-19 outbreak is widely described as an economic shock,
-
-Pagano and Zechner empirically analyzed the effects of covid 19 on companies’ financial performance in the EU (2022). Their finding shows significant differences in the effects between large firms and small and medium sized enterprises. 
-By comparing the year 2019 and 2020 the authors found that smaller companies tend to increase their ratio of total debt to total assets (debt-ratio) whereas, large companies also increase their leverage, but significantly less.
-Regarding liquidity, small and medium sized enterprises increased their cash to total assets ratio more than large companies. Small companies did so even more than medium sized ones. However, the authors could only speculate over the reason behind of this observation. Plausible reasons were precautionary cash hording and greater risk aversion. Additionally, the authors raise the theory that smaller companies were able to raise cash more easily due to the claim, that loan guarantee programs favored small firms. However, the analyzed sample of small and medium sized enterprises was not representative of any specific industry, nor of aid recipients. 
-A study by Peichl et al. analyses the implications of the pandemic crisis on the equity of Germany companies (2021). They found in their early survey from September that for most companies the equity ratio did not change, however a strong sectoral heterogeneity with travel and gastronomy having a reduction in the equity ratio between 1.8 % and 1.5 %.
-(Tielens et al. 2021) conducted a significant short-run impact on firms’ liquidity buffers in Belgium by the covid 19 Pandemic. (Narrow liquidity ratio) And heterogeneous impact of the COVID-19 crisis on the cash position of Belgian firms in comparison to a business-as-usual counterfactual.
-In Spain a survey looked at amongst other indicators looked at indebtedness and cash ratio of enterprises. Findings support the heterogeneity of the covid 19 shock across firms and that the impact was larger for small, young and less productive firms located in urban areas. (Fernández-Cerezo et al. 2021).
-Heterogeneous impact of the COVID-19 crisis on firms’ sales and costs, see Dhyne and Duprez (2021)
+Even though balance sheets offer a reporting date view on the firm’s financial information and can’t reflect events or extreme situations during a fiscal year, they provide comparable view on companies that is standardized by accounting standards. To achieve comparability of the financial situation of companies despite their different sizes, the collected balance sheet data is used to calculate ratios. With that available financial a selection of balance sheet ratios is calculated to provide a consistent indication of a firm’s situation in terms of liquidity and leverage. The ratios are calculated for each beneficiary of government support for each available year between 2018 and 2022. Calculations are shown in table \ref{tab:RatioCalc}.
 
 
+\subsection{Liquidity Ratios}
 
+Liquidity ratios are chosen to measure a firm’s financial position to meet its obligations in the short run. As outlined in chapter \ref{Chapter1}the pandemic shock had a significant effect on companies’ liquidity and was a key consideration for the EU to loosen state aid regulation and enable large scale support measures \parencite{eu_com_temporary_2020}.
+
+The first and most representative liquidity ratio is the cash ratio, comparing the most liquid asset, cash holdings, to the total assets of a firm. Cash is the starting buffer against running costs in a crisis shock. Although usually the current liabilities are used instead of the total assets, with the available data total assets serve as a more robust denominator that has been utilizes in similar research \parencite{fernandez-cerezo_firm-level_2021, costa_state-aids_2021,igan_shot_2023}.
+
+\subsection{Solvency Ratios}
+
+The other factor of interest is the indebtedness of firm in context with the pandemic and the remedy measures. The indebtedness, or also leverage, of a firm has implications that are rather relevant in the long-term, since debt payments are long term obligations that need to be serviced by cash flows. High levels of debt can challenge a company and can reduce profits. 
+The debt-to-asset and the equity ratio compare the respective capital to the total assets and are behaving in opposite directions. The debt-to-equity ratio give a magnified picture on the companies leverage compared to the debt-to-asset ratio. For the simplification purposes negative ratios were omitted since result either from errors in the data parsing process or from exceptional cases like loss transfer agreements with parent companies. 
+
+\begin{table}[]
+    \caption{The calculation of Balance Sheet Ratios.}
+    \label{tab:RatioCalc}
+    \centering
+    \def\arraystretch{1.5}
+    \begin{tabular}{@{}lll@{}}
+    \toprule
+    Category                   & Ratio                & Calculation \\ \midrule
+    \multirow{3}{*}{Liquidity} & Cash Ratio           & $\frac{Cash}{Total Assets}$ \\ %\cmidrule(l){2-3} 
+                                & Quick Ratio          & $\frac{Current Assets-Inventory}{Current Liabilities}$ \\ %\cmidrule(l){2-3} 
+                                & Current Ratio        & $\frac{Current Assets}{Current Liabilities}$ \\ \midrule
+    \multirow{3}{*}{Liability} & Debt-to-Equity Ratio & $\frac{Debt}{Equity}$ \\ %\cmidrule(l){2-3} 
+                                & Equity Ratio         & $\frac{Equity}{Total Assets}$ \\ %\cmidrule(l){2-3} 
+                                & Debt-to-Assets Ratio & $\frac{Debt}{Total Assets}$ \\ \bottomrule
+    \end{tabular}
+    \end{table}
 
 %----------------------------------------------------------------------------------------
 %	SECTION 2

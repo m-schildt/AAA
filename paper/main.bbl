@@ -227,6 +227,45 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{costa_state-aids_2021}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=CDD}{%
+         family={Costa},
+         familyi={C\bibinitperiod},
+         given={Daniela\bibnamedelima Dias},
+         giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CDD1}
+    \strng{fullhash}{CDD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{State-{Aids} and {Credit}: {Evidence} from {Portugal} {During} {Covid}-19}
+    \verb{url}
+    \verb https://repositorio-aberto.up.pt/bitstream/10216/137491/2/513100.pdf
+    \endverb
+    \list{institution}{1}{%
+      {Universidade do Porto (Portugal)}%
+    }
+    \verb{file}
+    \verb Costa - STATE-AIDS AND CREDIT EVIDENCE FROM PORTUGAL DURI.pdf:/Users/
+    \verb marco/Zotero/storage/NM93568Z/Costa - STATE-AIDS AND CREDIT EVIDENCE
+    \verb FROM PORTUGAL DURI.pdf:application/pdf
+    \endverb
+    \field{type}{Dissertation}
+    \field{year}{2021}
+    \field{urlday}{04}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{demmou_insolvency_2021}{report}{}
     \name{author}{5}{}{%
       {{hash=DL}{%
@@ -473,6 +512,67 @@
     \field{journaltitle}{Documentos de Trabajo. N.º 2120}
     \field{month}{05}
     \field{year}{2021}
+  \endentry
+
+  \entry{igan_shot_2023}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ID}{%
+         family={Igan},
+         familyi={I\bibinitperiod},
+         given={Deniz},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mirzaei},
+         familyi={M\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={Tomoe},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19, Economic support, Pandemic-prone, Policy effectiveness}
+    \strng{namehash}{IDMAMT1}
+    \strng{fullhash}{IDMAMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{abstract}{%
+    We use firm-level data to provide some early evidence on the effectiveness of COVID-19 economic policy packages. Our empirical strategy relies on the varying degree of vulnerability to the pandemic across industries. We find a robust association of fiscal support with changes in firm performance indicators (as measured by sales-to-assets ratio, profit margin, interest coverage ratio as well as probability of default) in pandemic-prone sectors. We also observe marginal effects of monetary policy on the sales-to-assets ratio and of foreign exchange intervention on the interest coverage ratio in the hardest-hit firms. These results broadly survive a battery of exercises to address endogeneity. Additionally, we show that firms with a better financial position are more likely to take advantage of the support packages to withstand the pandemic shock. Overall, this preliminary evidence suggests that policy interventions have bought time for the hardest-hit industries, by supporting turnover and improving liquidity.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jcorpfin.2022.102340
+    \endverb
+    \field{issn}{0929-1199}
+    \field{pages}{102340}
+    \field{shorttitle}{A shot in the arm}
+    \field{title}{A shot in the arm: {Economic} support packages and firm performance during {COVID}-19}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0929119922001833
+    \endverb
+    \field{volume}{78}
+    \verb{file}
+    \verb ScienceDirect Full Text PDF:/Users/marco/Zotero/storage/KPSKF7NX/Igan
+    \verb  et al. - 2023 - A shot in the arm Economic support packages and f.pd
+    \verb f:application/pdf;ScienceDirect Snapshot:/Users/marco/Zotero/storage/
+    \verb T56W7LT5/S0929119922001833.html:text/html
+    \endverb
+    \field{journaltitle}{Journal of Corporate Finance}
+    \field{month}{02}
+    \field{year}{2023}
+    \field{urlday}{11}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
   \endentry
 
   \entry{kfw_kfw-mittelstandspanel_2022}{report}{}

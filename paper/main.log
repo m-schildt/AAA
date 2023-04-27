@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  27 APR 2023 05:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  27 APR 2023 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -537,6 +537,12 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )
 Package csquotes Info: Enabling multilingual quotes.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip79
+\multirow@cntb=\count423
+\multirow@dima=\skip80
+\bigstrutjot=\dimen182
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
  (/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -556,11 +562,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count423
+\c@section@level=\count424
 )
-\@linkdim=\dimen182
-\Hy@linkcounter=\count424
-\Hy@pagecounter=\count425
+\@linkdim=\dimen183
+\Hy@linkcounter=\count425
+\Hy@pagecounter=\count426
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -570,7 +576,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count426
+\Hy@SavedSpaceFactor=\count427
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -583,17 +589,17 @@ Package hyperref Info: Plain pages OFF on input line 4192.
 Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count427
+\c@Hy@tempcnt=\count428
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen183
+\XeTeXLinkMargin=\dimen184
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count428
-\Field@Width=\dimen184
-\Fld@charsize=\dimen185
+\Fld@menulength=\count429
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -605,13 +611,13 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count429
-\c@Item=\count430
-\c@Hfootnote=\count431
+\Hy@abspage=\count430
+\c@Item=\count431
+\c@Hfootnote=\count432
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 92.
+(scrhack)             need that hack, on input line 93.
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
@@ -619,8 +625,8 @@ File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count432
-\c@bookmark@seq@number=\count433
+\Fld@listcount=\count433
+\c@bookmark@seq@number=\count434
  (/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -628,55 +634,55 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip79
+\Hy@SectionHShift=\skip81
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 92.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 92.
-Package hyperref Info: Option `colorlinks' set `true' on input line 92.
-Package hyperref Info: Option `unicode' set `true' on input line 92.
-Package hyperref Info: Option `breaklinks' set `true' on input line 92.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 93.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 93.
+Package hyperref Info: Option `colorlinks' set `true' on input line 93.
+Package hyperref Info: Option `unicode' set `true' on input line 93.
+Package hyperref Info: Option `breaklinks' set `true' on input line 93.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 92.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 93.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 92.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 93.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count434
-\scratchdimen=\dimen186
+\scratchcounter=\count435
+\scratchdimen=\dimen187
 \scratchbox=\box67
-\nofMPsegments=\count435
-\nofMParguments=\count436
+\nofMPsegments=\count436
+\nofMParguments=\count437
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count437
-\MPscratchDim=\dimen187
-\MPnumerator=\count438
-\makeMPintoPDFobject=\count439
+\MPscratchCnt=\count438
+\MPscratchDim=\dimen188
+\MPnumerator=\count439
+\makeMPintoPDFobject=\count440
 \everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -696,7 +702,7 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * bindingoffset: 14.22636pt
-* modes: includehead includefoot twoside 
+* modes: includehead includefoot 
 * h-part:(L,W,R)=(71.13188pt, 404.02908pt, 108.12054pt)
 * v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
 * \paperwidth=597.50787pt
@@ -704,13 +710,13 @@ Package caption Info: End \AtBeginDocument code.
 * \textwidth=404.02908pt
 * \textheight=689.15318pt
 * \oddsidemargin=13.08826pt
-* \evensidemargin=35.85056pt
+* \evensidemargin=-1.1381pt
 * \topmargin=-29.59087pt
 * \headheight=20.66162pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=98.0pt
+* \marginparwidth=47.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -718,18 +724,18 @@ Package caption Info: End \AtBeginDocument code.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package scrbase Info: activating english \abbrevname on input line 92.
-Package scrbase Info: activating english \byname on input line 92.
-Package scrbase Info: activating english \acknowledgementname on input line 92.
-Package scrbase Info: activating english \authorshipname on input line 92.
-Package scrbase Info: activating english \constantsname on input line 92.
-Package scrbase Info: activating english \symbolsname on input line 92.
-\big@size=\dimen188
+Package scrbase Info: activating english \abbrevname on input line 93.
+Package scrbase Info: activating english \byname on input line 93.
+Package scrbase Info: activating english \acknowledgementname on input line 93.
+Package scrbase Info: activating english \authorshipname on input line 93.
+Package scrbase Info: activating english \constantsname on input line 93.
+Package scrbase Info: activating english \symbolsname on input line 93.
+\big@size=\dimen189
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -746,9 +752,9 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 92.
-Package biblatex Info: Reference segment=0 on input line 92.
-Package hyperref Info: Link coloring ON on input line 92.
+Package biblatex Info: Reference section=0 on input line 93.
+Package biblatex Info: Reference segment=0 on input line 93.
+Package hyperref Info: Link coloring ON on input line 93.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -759,35 +765,32 @@ Package hyperref Info: Link coloring ON on input line 92.
 
 
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2
-
-]
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 --------------------
  Executive Summary
 --------------------
 1: section
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 163.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 164.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 163.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 164.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 163.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 164.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 163.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 164.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 163.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 164.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [3
+) [1
 
-] [4
 
 ] (./main.toc)
 \tf@toc=\write5
@@ -795,7 +798,7 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 
 1: section
-[5] [6
+[2
 
 ] (./main.lof)
 \tf@lof=\write6
@@ -803,7 +806,7 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 
 1: section
-[7] [8
+[3
 
 ] (./main.lot)
 \tf@lot=\write7
@@ -811,11 +814,11 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 
 1: section
-[9] [10
+[4
 
 ]
 1: section
-[11] [12
+[5
 
 ]
 1: section
@@ -832,6 +835,7 @@ Overfull \hbox (2.95816pt too wide) in paragraph at lines 17--20
 [1
 
 
+
 ] (./Tables/table_1.tex)) [2]
 \openout2 = `Chapters/Chapter2_LitRev.aux'.
 
@@ -846,48 +850,48 @@ Chapter 2.
 ]) [4] [5]
 \openout2 = `Chapters/Chapter3_DataSource.aux'.
 
- (./Chapters/Chapter3_DataSource.tex [6
-
-
-
-
-]
+ (./Chapters/Chapter3_DataSource.tex
 Chapter 3.
 )
 1: section
-[7]
+[6
+
+
+
+
+]
 \openout2 = `Chapters/Chapter4_Methods.aux'.
 
- (./Chapters/Chapter4_Methods.tex [8
+ (./Chapters/Chapter4_Methods.tex
+Chapter 4.
+1: section
+[7
 
 
 
 
 ]
-Chapter 4.
 
-Overfull \hbox (4.0386pt too wide) in paragraph at lines 13--16
-\T1/ppl/m/n/12 Research un-am-bigu-ous con-cluded that COVID-19 cri-sis neg-a-tively in-flu-enced
- []
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 27.
 
-1: section
-[9]) [10] [11]
+) [8] [9]
 \openout2 = `Chapters/Chapter5_Results.aux'.
 
- (./Chapters/Chapter5_Results.tex [12
-
-
-
-
-]
+ (./Chapters/Chapter5_Results.tex
 Chapter 5.
-<Figures/chart_ratios.png, id=266, 1084.05pt x 289.08pt>
+<Figures/chart_ratios.png, id=251, 1084.05pt x 289.08pt>
 File: Figures/chart_ratios.png Graphic file (type png)
 <use Figures/chart_ratios.png>
 Package pdftex.def Info: Figures/chart_ratios.png  used on input line 20.
 (pdftex.def)             Requested size: 484.83366pt x 129.2908pt.
 1: section
-[13]) [14 <./Figures/chart_ratios.png>]
+[10
+
+
+
+
+]) [11 <./Figures/chart_ratios.png>]
 \openout2 = `Chapters/Chapter6_Conclusion.aux'.
 
  (./Chapters/Chapter6_Conclusion.tex
@@ -898,12 +902,12 @@ Overfull \hbox (4.0386pt too wide) in paragraph at lines 13--16
  []
 
 1: section
-[15
+[12
 
 
 
 
-]) [16]
+]) [13]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (./Appendices/AppendixA.tex
@@ -913,107 +917,102 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ))
 1: section
-[17
+[14
 
 
 
 
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [18
-
-
-
-]
-Overfull \hbox (51.45264pt too wide) in paragraph at lines 226--226
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+Overfull \hbox (51.45264pt too wide) in paragraph at lines 227--227
 \T1/ppl/m/n/12 BANK. \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / www . bvr . de / p . nsf / 0 / 31959EDD28C91416C1258916002CE183 /
  []
 
 
-Overfull \hbox (46.47652pt too wide) in paragraph at lines 226--226
+Overfull \hbox (46.47652pt too wide) in paragraph at lines 227--227
 [][]\T1/ppl/m/n/12 BMWK, Bun-desmin-is-terium für Wirtschaft und Kli-maschutz (June 2022). \T1/ppl/m/it/12 Überblickspa-
  []
 
 
-Overfull \hbox (9.69925pt too wide) in paragraph at lines 226--226
+Overfull \hbox (9.69925pt too wide) in paragraph at lines 227--227
 \T1/cmtt/m/n/12 www . bmwk . de / Redaktion / DE / Downloads / C -[] D / Corona / ueberblickspapier -[]
  []
 
 
-Overfull \hbox (4.27844pt too wide) in paragraph at lines 226--226
+Overfull \hbox (4.27844pt too wide) in paragraph at lines 227--227
 [][]\T1/ppl/m/n/12 Claici, Ad-ina, Lau-rent Ey-mard, and Shahin Val-lée (June 2022). \T1/ppl/m/it/12 Eu-ro-pean Union:
  []
 
 
-Overfull \hbox (29.4728pt too wide) in paragraph at lines 226--226
+Overfull \hbox (29.4728pt too wide) in paragraph at lines 227--227
 \T1/ppl/m/it/12 economists' per-spec-tive on state aid\T1/ppl/m/n/12 . en. \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / globalcompetitionreview .
  []
 
 
-Overfull \hbox (2.02635pt too wide) in paragraph at lines 226--226
+Overfull \hbox (2.02635pt too wide) in paragraph at lines 227--227
 [][]\T1/ppl/m/n/12 Deutsche Bun-des-bank (2022). \T1/ppl/m/it/12 Jahresab-schlussstatis-tik (Hochgerech-nete Angaben)\T1/ppl/m/n/12 .
  []
 
 
-Overfull \hbox (33.39322pt too wide) in paragraph at lines 226--226
+Overfull \hbox (33.39322pt too wide) in paragraph at lines 227--227
 \T1/cmtt/m/n/12 bundesbank . de / resource / blob / 827826 / 967001c31efc4ad77fed0abbe19f6ac0 /
  []
 
-
-Overfull \hbox (2.63753pt too wide) in paragraph at lines 226--226
-\T1/cmtt/m/n/12 eu / competition / transparency / public ? lang = en$[][] \T1/ppl/m/n/12 (vis-ited on 04/25/2023). 
- []
-
 1: section
-[19]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 226.
+[15
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 227.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [20]
+) [16]
 --------------------
  Statement of Authorship
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--239
+Underfull \hbox (badness 10000) in paragraph at lines 233--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--242
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--245
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--249
+Underfull \hbox (badness 10000) in paragraph at lines 247--250
 
  []
 
 1: section
-[21
+[17
 
 ] (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FE19DA5F907F34B36AF424D55A1FEB99;3300.
+(rerunfilecheck)             Checksum: E6AAFCF800FC8F39D8782B2861F4142E;3744.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28900 strings out of 476025
- 639880 string characters out of 5790018
+ 28992 strings out of 476025
+ 641793 string characters out of 5790018
  1867388 words of memory out of 5000000
- 48889 multiletter control sequences out of 15000+600000
- 552582 words of font info for 90 fonts, out of 8000000 for 9000
+ 48974 multiletter control sequences out of 15000+600000
+ 556489 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,21n,93p,3344b,1993s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (33 pages, 223336 bytes).
+ 96i,21n,93p,3344b,1994s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (23 pages, 231708 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
- 340 compressed objects within 4 object streams
- 79 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 382 PDF objects out of 1000 (max. 8388607)
+ 337 compressed objects within 4 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
