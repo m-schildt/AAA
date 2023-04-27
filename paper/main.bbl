@@ -79,6 +79,61 @@
     \field{year}{2022}
   \endentry
 
+  \entry{bley_mittelstand_2022}{report}{}
+    \name{author}{4}{}{%
+      {{hash=BA}{%
+         family={Bley},
+         familyi={B\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vogt},
+         familyi={V\bibinitperiod},
+         given={Gerit},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Holstein},
+         familyi={H\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Niegsch},
+         familyi={N\bibinitperiod},
+         given={Claus},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA+1}
+    \strng{fullhash}{BAVGHMNC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Mittelstand im {Mittelpunkt}}
+    \verb{url}
+    \verb https://www.bvr.de/p.nsf/0/31959EDD28C91416C1258916002CE183/%24FILE/M
+    \verb ittelstand%20im%20Mittelpunkt%20Herbst%202022-2.pdf
+    \endverb
+    \list{institution}{1}{%
+      {BVR, DZ BANK}%
+    }
+    \verb{file}
+    \verb Mittelstand im Mittelpunkt Herbst 2022-2.pdf:/Users/marco/Zotero/stor
+    \verb age/8PX8REEE/Mittelstand im Mittelpunkt Herbst 2022-2.pdf:application
+    \verb /pdf
+    \endverb
+    \field{type}{techreport}
+    \field{year}{2022}
+    \field{urlday}{27}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{bmwk_uberblickspapier_2022}{misc}{}
     \name{author}{1}{}{%
       {{hash=BBfWuK}{%
@@ -235,6 +290,42 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{deutsche_bundesbank_jahresabschlussstatistik_2022}{report}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={{Deutsche Bundesbank}},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Jahresabschlussstatistik ({Hochgerechnete} {Angaben})}
+    \verb{url}
+    \verb https://www.bundesbank.de/resource/blob/827826/967001c31efc4ad77fed0a
+    \verb bbe19f6ac0/mL/1-0-jahresabschlussstatistik-hochgerechnete-angaben-dat
+    \verb a.pdf
+    \endverb
+    \list{institution}{1}{%
+      {Deutsche Bundesbank}%
+    }
+    \verb{file}
+    \verb 2022 - Jahresabschlussstatistik (Hochgerechnete Angaben).pdf:/Users/m
+    \verb arco/Zotero/storage/ICDEPDAI/2022 - Jahresabschlussstatistik (Hochger
+    \verb echnete Angaben).pdf:application/pdf
+    \endverb
+    \field{type}{Statistische {Fachreihe}}
+    \field{year}{2022}
+  \endentry
+
   \entry{dhyne_belgian_2021}{article}{}
     \name{author}{2}{}{%
       {{hash=DE}{%
@@ -382,6 +473,46 @@
     \field{journaltitle}{Documentos de Trabajo. N.º 2120}
     \field{month}{05}
     \field{year}{2021}
+  \endentry
+
+  \entry{kfw_kfw-mittelstandspanel_2022}{report}{}
+    \name{author}{1}{}{%
+      {{hash=K}{%
+         family={{KfW}},
+         familyi={K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \strng{namehash}{K1}
+    \strng{fullhash}{K1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{{KfW}-{Mittelstandspanel} 2022}
+    \verb{url}
+    \verb https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/PDF-Dok
+    \verb umente-KfW-Mittelstandspanel/KfW-Mittelstandspanel-2022.pdf
+    \endverb
+    \list{location}{1}{%
+      {Frankfurt am Main}%
+    }
+    \list{institution}{1}{%
+      {KfW Bankengruppe}%
+    }
+    \verb{file}
+    \verb KfW-Mittelstandspanel 2022.pdf:/Users/marco/Zotero/storage/8H92F7FS/K
+    \verb fW-Mittelstandspanel 2022.pdf:application/pdf
+    \endverb
+    \field{type}{techreport}
+    \field{year}{2022}
+    \field{urlday}{04}
+    \field{urlmonth}{07}
+    \field{urlyear}{2023}
   \endentry
 
   \entry{pagano_covid-19_2022}{misc}{}
