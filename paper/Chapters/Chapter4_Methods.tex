@@ -9,12 +9,13 @@
 %----------------------------------------------------------------------------------------
 
 \section{Balance Sheet Ratios}
+\label{section:BSratios}
 
 To evaluate the financial position and performance of firms in a comparable way across the data set a selection of balance sheet ratios were chosen. Ratios allow a consistent view on the companies despite their different sizes. Even though balance sheets only offer a reporting date view on the firm’s financial information and can’t reflect events or extreme situations during a fiscal year, they provide comparable view on companies that is standardized by accounting standards.  The selection of ratios was made to get a picture of the liquidity and solvency the of firms. The ratios are calculated for each beneficiary of government support for each available year between 2018 and 2022. Calculations are shown in table \ref{tab:RatioCalc}.
 
 \subsection{Liquidity Ratios}
 
-Liquidity ratios are chosen to measure a firm's financial position to meet its obligations in the short run. As outlined in chapter \ref{Chapter1}the pandemic shock had a significant effect on companies’ liquidity and was a key consideration for the EU to loosen state aid regulation and enable large scale support measures \parencite{eu_com_temporary_2020}. The first and most representative liquidity ratio is the cash ratio, comparing the most liquid asset, cash holdings, to the total assets of a firm. Cash is the starting buffer against running costs in a crisis shock. Although usually the current liabilities are used instead of the total assets, with the available data total assets serve as a more robust denominator that has been utilizes in similar research \parencite{fernandez-cerezo_firm-level_2021, costa_state-aids_2021,igan_shot_2023}. The quick and the current ratio provide a more conservative view on a firms liquidity by including assets that are still considered relatively liquid against the current (short-term) liabilities. However, the key Component is short term debt, is not disclosed consistently in balance sheets due to the fact that accounting standards allow alternative discloser in the balance sheet appendix. For practicability, such a case the calculation had to use the total liabilities, which reduced the informative value in comparisons across firms, but still allows for comparisons on a firm level between different years.
+Liquidity ratios are chosen to measure a firm's financial position to meet its obligations in the short run. As outlined in chapter \ref{Chapter1}the pandemic shock had a significant effect on companies' liquidity and was a key consideration for the EU to loosen state aid regulation and enable large scale support measures \parencite{eu_com_temporary_2020}. The first and most representative liquidity ratio is the cash ratio, comparing the most liquid asset, cash holdings, to the total assets of a firm. Cash is the starting buffer against running costs in a crisis shock. Although usually the current liabilities are used instead of the total assets, with the available data total assets serve as a more robust denominator that has been utilizes in similar research \parencite{fernandez-cerezo_firm-level_2021, costa_state-aids_2021,igan_shot_2023}. The quick and the current ratio provide a more conservative view on a firms liquidity by including assets that are still considered relatively liquid against the current (short-term) liabilities. However, the key Component is short term debt, is not disclosed consistently in balance sheets due to the fact that accounting standards allow alternative discloser in the balance sheet appendix. For practicability, such a case the calculation had to use the total liabilities, which reduced the informative value in comparisons across firms, but still allows for comparisons on a firm level between different years.
 
 \subsection{Solvency Ratios}
 
@@ -38,18 +39,62 @@ The debt-to-asset and the equity ratio compare the respective capital to the tot
     \end{tabular}
     \end{table}
 
+
+
+
+
+
+
+
+
+
 %----------------------------------------------------------------------------------------
 %	SECTION 2
 %----------------------------------------------------------------------------------------
 
-\section{Diff and Diff}
+\section{Difference-in-Differences}
 
-Policy intervention to "prevent” the effects and save businesses for a fast economic recovery.
-First assessments were modeling approaches.
-Already lots of early assessments of state aid, also at a firm level.
-For getting a better understanding on the effect of aid schemes in Germany a paper analyses the effect of a company’s cost structure on the effectives of aid measures (Bischof, Karlsson, Rostam-Aschar, Simon, 2021). 
-This paper assumes that companies within the same sector have a similar cost structure. 
-Since aid in Germany is based on the cost structure of companies, the authors conclude that based on the generalized approach of aid schemes, the effectiveness of aid is varying between business sectors.
+With the obtained firm-level data the first analysis tries to (1) measure the causal treatment effect of government support during the COVID-19 pandemic and (2) explore how the effects between aid instruments on the ratios from section \ref{section:BSratios} differ. To estimate the causal effect of aid, the fact the aid measures were granted consecutively over the years 2020-2023 is used for a natural experiment with a standard difference-in-differences method to estimate the average treatment effect on the treated ($ATT$). In this setting the $ATT$ can be described as the average causal effect of an aid instrument on the balance sheet ratio of companies that received support. In mathematical terms can be described as following:
+
+\begin{equation}
+    ATT = E[Y_{ratio,1i}| aid=1]-E[Y_{ratio,0i}| aid=1] 
+    \label{eqn:ATT}
+\end{equation}
+
+The first term describes the expected balance sheet ratio amongst the companies that got aid. The second part describes the unobservable expected ratios of the very same group of companies if they won’t have received any aid. In the quasi-experimental setup, the periods 2019 and 2020 will be compared and companies that received support in 2020 serve as treated group, while companies that did not receive support in 2020, but later in 2021 or 2022 serve as the control group. The classification in treated and untreated is based on the cut-off dates of the firms of balance sheets and the date of granting the support. The setting is also performed for the periods 2020 and 2021, where the companies in the control group only received aid in 2022. For the estimation of the difference-in-difference a regression with the following linear model is used:
+
+
+\begin{equation}
+    ratio_{ft} = \beta_{0} + \beta_{1}aid_{f} + \beta_{2}post_{t} + \beta_{3}aid\ast post_{ft} + \varepsilon_{ft} 
+    \label{eqn:Diff&Diff}
+\end{equation}
+
+Where the dependent variable is the ratio for firm ($f$) in period ($t$). The coefficients on the right side of the equation are the dummy variables aid, post, their interaction term $ aid\ast post$ and the unobserved "error" term $ \varepsilon$. The first independent variable $aid$ equals 0 when firm ($f$) did not receive support until after the experiment period and is in the control group. The variable $aid$ equals 1 when the firm did receive support and is considered treated in experiment period and. The second independent variable $post$ indicates pre- and post-shock periods resembled by 0 and 1. The third and main variable for the difference-in-difference method is the interaction term $ aid\ast post$ which will only be 1 for a treated firm ($f=1$) in the treatment period ($t=1$). The coefficient of the interaction describes the change in the dependent variable due to the treatment as illustrated in a table \ref{tab:RatioCalc}. It can be seen that by inserting the values of aid and post the coefficient $\beta_{3}$ of the interaction of $aid$ and $post$ is the estimated difference-in-difference.
+
+\begin{table}%[]
+\caption{Difference-in-difference with regression}
+\label{tab:DiDcoefficient}
+\centering
+\def\arraystretch{1.5}
+
+\begin{tabular}{l|l|l|l|}
+    \cline{2-4}
+                                            & After($post=1$) & Before ($post=0$)& After - Before \\ \hline
+    \multicolumn{1}{|l|}{Treated ($aid=1$)}           &  $\beta_{0}+\beta_{1}+\beta_{2}+\beta_{3}$     &  $\beta_{0}+\beta_{1}$      &   $\beta_{2}+\beta_{3}$             \\ \hline
+    \multicolumn{1}{|l|}{Control ($aid=0$)}           &  $\beta_{0}+\beta_{2}$     &  $\beta_{0}$      &   $\beta_{2}$             \\ \hline
+    \multicolumn{1}{|l|}{Treated - Control} &  $\beta_{1}+\beta_{3}$     &  $\beta_{1}$      &   $\beta_{3}$             \\ \hline
+    \end{tabular}
+
+\end{table}
+
+The central assumption for the difference-in-difference methodology is that the control and the treatment group are comparable and would behave parallel in over the observed periods, if there wouldn’t be a treatment. The proposed setup is based on the assumption that companies who received aid at any point during the COVID-19 pandemic were sufficiently affected from the shock to be eligible for support and subsequently confirm the parallel trends assumption.
+
+
+
+
+
+
+
 
 
 %----------------------------------------------------------------------------------------
