@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  27 APR 2023 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  28 APR 2023 08:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -847,25 +847,33 @@ Chapter 2.
 
 
 
-]) [4] [5]
+] [4] [5]
+
+LaTeX Warning: Citation 'konings_impact_nodate' on page 6 undefined on input line 62.
+
+) [6]
 \openout2 = `Chapters/Chapter3_DataSource.aux'.
 
  (./Chapters/Chapter3_DataSource.tex
 Chapter 3.
-)
+
+Overfull \hbox (3.87144pt too wide) in paragraph at lines 13--14
+\T1/ppl/m/n/12 The the-sis uses data from eu-ro-pean state aid trans-parency database ([]EU COM,
+ []
+
 1: section
-[6
+[7
 
 
 
 
-]
+]) [8]
 \openout2 = `Chapters/Chapter4_Methods.aux'.
 
  (./Chapters/Chapter4_Methods.tex
 Chapter 4.
 1: section
-[7
+[9
 
 
 
@@ -873,25 +881,25 @@ Chapter 4.
 ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 27.
+               Default added (so using `tbp') on input line 24.
 
-) [8] [9]
+[10]) [11]
 \openout2 = `Chapters/Chapter5_Results.aux'.
 
  (./Chapters/Chapter5_Results.tex
 Chapter 5.
-<Figures/chart_ratios.png, id=251, 1084.05pt x 289.08pt>
+<Figures/chart_ratios.png, id=292, 1084.05pt x 289.08pt>
 File: Figures/chart_ratios.png Graphic file (type png)
 <use Figures/chart_ratios.png>
 Package pdftex.def Info: Figures/chart_ratios.png  used on input line 20.
 (pdftex.def)             Requested size: 484.83366pt x 129.2908pt.
 1: section
-[10
+[12
 
 
 
 
-]) [11 <./Figures/chart_ratios.png>]
+]) [13 <./Figures/chart_ratios.png>]
 \openout2 = `Chapters/Chapter6_Conclusion.aux'.
 
  (./Chapters/Chapter6_Conclusion.tex
@@ -902,12 +910,12 @@ Overfull \hbox (4.0386pt too wide) in paragraph at lines 13--16
  []
 
 1: section
-[12
+[14
 
 
 
 
-]) [13]
+]) [15]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (./Appendices/AppendixA.tex
@@ -917,7 +925,7 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ))
 1: section
-[14
+[16
 
 
 
@@ -947,6 +955,16 @@ Overfull \hbox (29.4728pt too wide) in paragraph at lines 227--227
 \T1/ppl/m/it/12 economists' per-spec-tive on state aid\T1/ppl/m/n/12 . en. \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / globalcompetitionreview .
  []
 
+1: section
+[17
+
+
+
+]
+Overfull \hbox (0.84306pt too wide) in paragraph at lines 227--227
+[][]\T1/ppl/m/n/12 Demmou, Lilas et al. (2021a). \T1/ppl/m/it/12 In-sol-vency and debt over-hang fol-low-ing the COVID-
+ []
+
 
 Overfull \hbox (2.02635pt too wide) in paragraph at lines 227--227
 [][]\T1/ppl/m/n/12 Deutsche Bun-des-bank (2022). \T1/ppl/m/it/12 Jahresab-schlussstatis-tik (Hochgerech-nete Angaben)\T1/ppl/m/n/12 .
@@ -957,16 +975,15 @@ Overfull \hbox (33.39322pt too wide) in paragraph at lines 227--227
 \T1/cmtt/m/n/12 bundesbank . de / resource / blob / 827826 / 967001c31efc4ad77fed0abbe19f6ac0 /
  []
 
-1: section
-[15
-
-
-
-]
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 227.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [16]
+) [18]
+Overfull \hbox (21.27272pt too wide) in paragraph at lines 227--227
+\T1/ppl/m/n/12 0560. \T1/ppl/m/sc/12 doi\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 10 . 1016 / j . iref . 2023 . 03 . 038$[][]\T1/ppl/m/n/12 . \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect .
+ []
+
+[19] [20]
 --------------------
  Statement of Authorship
 --------------------
@@ -991,28 +1008,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--250
  []
 
 1: section
-[17
+[21
 
 ] (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux))
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E6AAFCF800FC8F39D8782B2861F4142E;3744.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28992 strings out of 476025
- 641793 string characters out of 5790018
- 1867388 words of memory out of 5000000
- 48974 multiletter control sequences out of 15000+600000
+ 29112 strings out of 476025
+ 645718 string characters out of 5790018
+ 1869388 words of memory out of 5000000
+ 49077 multiletter control sequences out of 15000+600000
  556489 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,21n,93p,3344b,1994s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,21n,93p,3344b,2017s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (23 pages, 231708 bytes).
+Output written on main.pdf (27 pages, 245719 bytes).
 PDF statistics:
- 382 PDF objects out of 1000 (max. 8388607)
- 337 compressed objects within 4 object streams
- 74 named destinations out of 1000 (max. 500000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 415 compressed objects within 5 object streams
+ 91 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

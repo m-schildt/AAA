@@ -79,6 +79,120 @@
     \field{year}{2022}
   \endentry
 
+  \entry{bertschek_german_2022}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BI}{%
+         family={Bertschek},
+         familyi={B\bibinitperiod},
+         given={Irene},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Block},
+         familyi={B\bibinitperiod},
+         given={Joern},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kritikos},
+         familyi={K\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Stiel},
+         familyi={S\bibinitperiod},
+         given={Caroline},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BI+1}
+    \strng{fullhash}{BIBJKASC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{German {Financial} {State} {Aid} during {COVID}-19 {Pandemic}: {Higher} {Impact} among {Digitalized} {Self}-{Employed}}
+    \verb{file}
+    \verb Bertschek et al. - 2022 - German Financial State Aid during COVID-19
+    \verb Pandemi.pdf:/Users/marco/Zotero/storage/KLSYEQEM/Bertschek et al. - 2
+    \verb 022 - German Financial State Aid during COVID-19 Pandemi.pdf:applicat
+    \verb ion/pdf
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{bischof_bedeutung_2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BJ}{%
+         family={Bischof},
+         familyi={B\bibinitperiod},
+         given={Jannis},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Karlsson},
+         familyi={K\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RAD}{%
+         family={Rostam-Afschar},
+         familyi={R\bibinithyphendelim A\bibinitperiod},
+         given={Davud},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \strng{namehash}{BJ+1}
+    \strng{fullhash}{BJKCRADST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Zusammenfassung Die Corona-Krise führt bei vielen Unternehmen zu andauernden Umsatzeinbrüchen, die einen akuten Liquiditätsbedarf verursachen, sofern laufende Kosten nicht reduziert werden. Auf Grundlage neuer Daten des German Business Panels wird ein Klassifizierungsverfahren genutzt, das die Kostenstruktur von Unternehmen und damit die Sensitivität gegenüber Umsatzschocks sichtbar macht. Dies ist nützlich, um effektive Hilfsmaßnahmen so zu gestalten, dass sie die Beschäftigung sichern, Insolvenzen genauso wie Insolvenzverschleppung vermeiden, die speziellen Gegebenheiten von Branchen berücksichtigen und die wirtschaftliche Erholung beschleunigen. , Abstract For many firms, the coronavirus crisis has lead to persistent sales slumps that generated urgent liquidity demand — unless fixed costs were reduced. The authors use a newly developed classification procedure that makes the cost structure of companies and, thus, their sensitivity to sales shocks visible. This is useful for designing effective relief measures that preserve corporate structures by protecting employment and avoiding insolvencies of companies with healthy prospects for a recovery during the post-crisis period. Such an approach helps to accelerate economic recovery.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10273-021-2962-x
+    \endverb
+    \field{issn}{0043-6275, 1613-978X}
+    \field{number}{7}
+    \field{pages}{536\bibrangedash 543}
+    \field{title}{Die {Bedeutung} der {Kostenstruktur} für die {Effektivität} von {Staatshilfen}}
+    \verb{url}
+    \verb https://link.springer.com/10.1007/s10273-021-2962-x
+    \endverb
+    \field{volume}{101}
+    \verb{file}
+    \verb Bischof et al. - 2021 - Die Bedeutung der Kostenstruktur für die Eff
+    \verb ektivi.pdf:/Users/marco/Zotero/storage/R27N79WC/Bischof et al. - 2021
+    \verb  - Die Bedeutung der Kostenstruktur für die Effektivi.pdf:applicatio
+    \verb n/pdf
+    \endverb
+    \field{journaltitle}{Wirtschaftsdienst}
+    \field{month}{07}
+    \field{year}{2021}
+    \field{urlday}{11}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{bley_mittelstand_2022}{report}{}
     \name{author}{4}{}{%
       {{hash=BA}{%
@@ -168,6 +282,61 @@
     \field{month}{06}
     \field{year}{2022}
     \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{chang_studying_2022}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CL}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GX}{%
+         family={Gan},
+         familyi={G\bibinitperiod},
+         given={Xiaojun},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mohsin},
+         familyi={M\bibinitperiod},
+         given={Muhammad},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CLGXMM1}
+    \strng{fullhash}{CLGXMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1016/j.eap.2022.07.004
+    \endverb
+    \field{issn}{03135926}
+    \field{pages}{211\bibrangedash 225}
+    \field{title}{Studying corporate liquidity and regulatory responses for economic recovery in {COVID}-19 crises}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0313592622001084
+    \endverb
+    \field{volume}{76}
+    \verb{file}
+    \verb Full Text:/Users/marco/Zotero/storage/88QF59IQ/Chang et al. - 2022 -
+    \verb Studying corporate liquidity and regulatory respon.pdf:application/pd
+    \verb f
+    \endverb
+    \field{journaltitle}{Economic Analysis and Policy}
+    \field{month}{12}
+    \field{year}{2022}
+    \field{urlday}{16}
     \field{urlmonth}{04}
     \field{urlyear}{2023}
   \endentry
@@ -266,6 +435,59 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{de_santis_impact_2021}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DSRA}{%
+         family={De\bibnamedelima Santis},
+         familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Roberto\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Ferrando},
+         familyi={F\bibinitperiod},
+         given={Annalisa},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GES}{%
+         family={Gabbani},
+         familyi={G\bibinitperiod},
+         given={Elena\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19 crisis, firms’ liquidity needs, government support measures}
+    \strng{namehash}{DSRAFAGES1}
+    \strng{fullhash}{DSRAFAGES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    European governments responded to the pandemic by deploying large fiscal packages with the aim of supporting households, workers and firms. The October 2020-March 2021 SAFE shows that around two-thirds of large firms and SMEs surveyed made use of government policy support measures. Most firms used these schemes, particularly in the form of wage support measures, tax cuts and tax moratoria, to cover their immediate and short-term liquidity needs. Firms also indicated that government measures either currently in place or planned would make it easier for them to meet their debt obligations in the next two years. This demonstrates how government policies have been key to easing the liquidity needs of firms in the short and medium term following the outbreak of the pandemic. JEL Classification: D22, H32%
+    }
+    \field{note}{Publisher: European Central Bank}
+    \field{title}{The impact of fiscal support measures on the liquidity needs of firms during the pandemic}
+    \verb{url}
+    \verb https://ideas.repec.org//a/ecb/ecbbox/202100042.html
+    \endverb
+    \field{volume}{4}
+    \verb{file}
+    \verb Snapshot:/Users/marco/Zotero/storage/LRXSF6S8/202100042.html:text/htm
+    \verb l
+    \endverb
+    \field{journaltitle}{Economic Bulletin Boxes}
+    \field{year}{2021}
+    \field{urlday}{11}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{demmou_insolvency_2021}{report}{}
     \name{author}{5}{}{%
       {{hash=DL}{%
@@ -307,6 +529,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
+    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
@@ -321,6 +544,66 @@
     \verb Demmou et al. - INSOLVENCY AND DEBT OVERHANG FOLLOWING THE COVID-1.pd
     \verb f:/Users/marco/Zotero/storage/IIQ57E8S/Demmou et al. - INSOLVENCY AND
     \verb  DEBT OVERHANG FOLLOWING THE COVID-1.pdf:application/pdf
+    \endverb
+    \field{type}{{OECD} {Economics} {Department} {Working} {Papers}}
+    \field{year}{2021}
+    \field{urlday}{04}
+    \field{urlmonth}{08}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{demmou_liquidity_2021}{report}{}
+    \name{author}{4}{}{%
+      {{hash=DL}{%
+         family={Demmou},
+         familyi={D\bibinitperiod},
+         given={Lilas},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Franco},
+         familyi={F\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Calligaris},
+         familyi={C\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dlugosch},
+         familyi={D\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{DL+1}
+    \strng{fullhash}{DLFGCSDD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    RESUME Liquidity shortfalls during the Covid-19 outbreak: assessment and policy responses The paper investigates the financial vulnerability of non-financial firms during the Coronavirus (COVID-19) epidemic crisis. In particular, it evaluates the extent to which firms may run into a liquidity crisis following the COVID-19 outbreak and the impact of stylised policy measures to reduce the risks and depth of such crisis. The analysis relies on three ingredients: a simple accounting model, a large dataset reporting firms’ balance sheets for 14 countries and granular data on the magnitude of the shock measuring the impact of confinement measures on economic activity (notably depending on the capacity of each sector to operate by teleworking). Results suggest that, without any policy intervention, up to 38\% of firms would face liquidity shortfalls after 10 months since the implementation of confinement measures. Comparing the impact of different policies (tax deferral, debt moratorium and support to wage payments), the analysis shows that government support to relieve wage bills is the most effective tool to reduce liquidity shortages, followed by debt moratorium policies. Finally, the paper zooms into labour market policies and compares the costefficiency of short-term work and wage subsidies schemes, highlighting how their relative efficiency depends on their design.%
+    }
+    \field{number}{1647}
+    \field{title}{Liquidity shortfalls during the {Covid}-19 outbreak: assessment and policy responses}
+    \verb{url}
+    \verb https://www.oecd-ilibrary.org/economics/liquidity-shortfalls-during-t
+    \verb he-covid-19-outbreak-assessment-and-policy-responses_581dba7f-en
+    \endverb
+    \verb{file}
+    \verb Demmou et al. - LIQUIDITY SHORTFALLS DURING THE COVID-19 OUTBREAK.pdf
+    \verb :/Users/marco/Zotero/storage/SL3RLE3I/Demmou et al. - LIQUIDITY SHORT
+    \verb FALLS DURING THE COVID-19 OUTBREAK.pdf:application/pdf
     \endverb
     \field{type}{{OECD} {Economics} {Department} {Working} {Papers}}
     \field{year}{2021}
@@ -398,6 +681,63 @@
     \verb  firms and the COVID-19 crisis.pdf:application/pdf
     \endverb
     \field{year}{2021}
+  \endentry
+
+  \entry{ebeke_corporate_2021}{report}{}
+    \name{author}{4}{}{%
+      {{hash=EC}{%
+         family={Ebeke},
+         familyi={E\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jovanovic},
+         familyi={J\bibinitperiod},
+         given={Nemanja},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=VL}{%
+         family={Valderrama},
+         familyi={V\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EC+1}
+    \strng{fullhash}{ECJNVLZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{2021/056}
+    \field{title}{Corporate {Liquidity} and {Solvency} in {Europe} during {COVID}-19: {The} {Role} of {Policies}}
+    \verb{url}
+    \verb https://www.imf.org/en/Publications/WP/Issues/2021/03/02/Corporate-Li
+    \verb quidity-and-Solvency-in-Europe-during-COVID-19-The-Role-of-Policies-5
+    \verb 0133
+    \endverb
+    \verb{file}
+    \verb Corporate Liquidity and Solvency in Europe during .pdf:/Users/marco/Z
+    \verb otero/storage/MCYVW7B3/Corporate Liquidity and Solvency in Europe dur
+    \verb ing .pdf:application/pdf;Corporate Liquidity and Solvency in Europe d
+    \verb uring COVID-19\: The Role of Policies:/Users/marco/Zotero/storage/2WN
+    \verb YEEPR/Corporate-Liquidity-and-Solvency-in-Europe-during-COVID-19-The-
+    \verb Role-of-Policies-50133.html:text/html
+    \endverb
+    \field{type}{{IMF} {Working} {Paper}}
+    \field{year}{2021}
+    \field{urlday}{17}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
   \endentry
 
   \entry{eu_com_temporary_2020}{misc}{}
@@ -514,6 +854,72 @@
     \field{year}{2021}
   \endentry
 
+  \entry{harasztosi_firm-level_2022}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HP}{%
+         family={Harasztosi},
+         familyi={H\bibinitperiod},
+         given={Péter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Maurin},
+         familyi={M\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Pál},
+         familyi={P\bibinitperiod},
+         given={Rozália},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Revoltella},
+         familyi={R\bibinitperiod},
+         given={Debora},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=vdWW}{%
+         prefix={van\bibnamedelima der},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Wielen},
+         familyi={W\bibinitperiod},
+         given={Wouter},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{HP+1}
+    \strng{fullhash}{HPMLPRRDWWvd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{shorttitle}{Firm-level policy support during the crisis}
+    \field{title}{Firm-level policy support during the crisis: so far, so good?}
+    \verb{url}
+    \verb https://data.europa.eu/doi/10.2867/24308
+    \endverb
+    \field{volume}{2022/01}
+    \verb{file}
+    \verb European Investment Bank. - 2022 - Firm-level policy support during t
+    \verb he crisis so fa.pdf:/Users/marco/Zotero/storage/D7CH54AV/European Inv
+    \verb estment Bank. - 2022 - Firm-level policy support during the crisis so
+    \verb  fa.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{EIB Working Paper}
+    \field{month}{01}
+    \field{year}{2022}
+    \field{urlday}{10}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{igan_shot_2023}{article}{}
     \name{author}{3}{}{%
       {{hash=ID}{%
@@ -615,6 +1021,123 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{kochaniak_effectiveness_2023}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KK}{%
+         family={Kochaniak},
+         familyi={K\bibinitperiod},
+         given={Katarzyna},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=UP}{%
+         family={Ulman},
+         familyi={U\bibinitperiod},
+         given={Paweł},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zajkowski},
+         familyi={Z\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19, Effectiveness, Microenterprise, Revenues, State aid}
+    \strng{namehash}{KKUPZR1}
+    \strng{fullhash}{KKUPZR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    The effectiveness of COVID-19 state aid for microenterprises in Poland is presented. The quantitative analysis based on the logistic regression models revealed that it was limited. Our results show that state aid was more readily transferred to micro-entities that had been insignificant employers and expanding their performance during the pandemic through increasing employment and revenues. Since the governmental programmes in Poland were assumed to stabilise enterprises’ revenues, our study allowed assessing their effectiveness in this regard. The problem of longer-term revenue decreases and increases was identified among supported micro-entities. Revenue decreases primarily resulted from the overall deterioration of their economic position. These beneficiaries, most of all, stood out with longer-term declines in liquidity and profitability, redundancies of employment, and stressed access to financial market funding. Thus, the aid was insufficient concerning their actual needs, though it came from generous measures. In turn, the supported micro-entities with revenue growth during the pandemic were found to be resilient to stress conditions, with access to selected market and non-market liquidity, and increasing their liquidity and profitability in the longer term. Despite the fact that they did not need to be supported, they often benefited from state aid provided within an unconditionally available measure. Based on the results obtained, recommendations for policymakers have been formulated regarding allocation aspects of support for micro-entities during a pandemic.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.iref.2023.03.038
+    \endverb
+    \field{issn}{1059-0560}
+    \field{pages}{483\bibrangedash 497}
+    \field{title}{Effectiveness of {COVID}-19 state aid for microenterprises in {Poland}}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S1059056023001090
+    \endverb
+    \field{volume}{86}
+    \verb{file}
+    \verb ScienceDirect Full Text PDF:/Users/marco/Zotero/storage/8P3ETMT7/Koch
+    \verb aniak et al. - 2023 - Effectiveness of COVID-19 state aid for microen
+    \verb ter.pdf:application/pdf;ScienceDirect Snapshot:/Users/marco/Zotero/st
+    \verb orage/YGCFZYCU/S1059056023001090.html:text/html
+    \endverb
+    \field{journaltitle}{International Review of Economics \& Finance}
+    \field{month}{07}
+    \field{year}{2023}
+    \field{urlday}{11}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{lalinsky_distribution_2021}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LT}{%
+         family={Lalinsky},
+         familyi={L\bibinitperiod},
+         given={Tibor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Pál},
+         familyi={P\bibinitperiod},
+         given={Rozália},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19, Coronavirus, Firm-level, Liquidity, Policy measures, Profit, Solvency, Wage subsidies}
+    \strng{namehash}{LTPR1}
+    \strng{fullhash}{LTPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    We utilize several unique firm-level datasets in order to assess the efficiency and effectiveness of the government support aiming to curb the economic consequences of the coronavirus pandemic. The results, drawing on the experience of a small open European country, suggest the distributed COVID-19 subsidies save non-negligible number of jobs and sustain economic activity during the first wave of the pandemic. General distribution rules designed on the fly may bring close to optimal results in terms of the support allocation, as relatively more productive, privately owned, foreign-demand oriented firms are prioritized and firms with a high environmental footprint or zombie firms record a relatively lower chance of obtaining government funding. By assuming constant cost elasticities to sales, we show that the pandemic deteriorates strongly firm profits and increases significantly the share of illiquid and insolvent firms. Government wage subsidies somewhat mitigate firm losses and have statistically significant effect, but relatively mild compared to the size of the economic shock. Our estimates also confirm that larger firms, receiving smaller relative size of the support, have more space to cover their additional liquidity needs by increasing trade liabilities or liabilities to affiliated entities, while SMEs face higher risk of insolvencies.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.strueco.2022.03.008
+    \endverb
+    \field{issn}{0954-349X}
+    \field{pages}{305\bibrangedash 335}
+    \field{title}{Distribution of {COVID}-19 government support and its consequences for firm liquidity and solvency}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0954349X22000431
+    \endverb
+    \field{volume}{61}
+    \verb{file}
+    \verb European Investment Bank. - 2021 - Efficiency and effectiveness of th
+    \verb e COVID-19 gover.pdf:/Users/marco/Zotero/storage/H5PY7JHS/European In
+    \verb vestment Bank. - 2021 - Efficiency and effectiveness of the COVID-19
+    \verb gover.pdf:application/pdf;ScienceDirect Full Text PDF:/Users/marco/Zo
+    \verb tero/storage/BGTNL4HD/Lalinsky and Pál - 2022 - Distribution of COVI
+    \verb D-19 government support and it.pdf:application/pdf;ScienceDirect Snap
+    \verb shot:/Users/marco/Zotero/storage/ULMTZVY9/S0954349X22000431.html:text
+    \verb /html
+    \endverb
+    \field{journaltitle}{Structural Change and Economic Dynamics}
+    \field{year}{2021}
+    \field{urlday}{10}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{pagano_covid-19_2022}{misc}{}
     \name{author}{2}{}{%
       {{hash=PM}{%
@@ -665,6 +1188,55 @@
     \field{urlday}{14}
     \field{urlmonth}{04}
     \field{urlyear}{2023}
+  \endentry
+
+  \entry{parlapiano_effects_2020}{report}{}
+    \name{author}{4}{}{%
+      {{hash=PF}{%
+         family={Parlapiano},
+         familyi={P\bibinitperiod},
+         given={Fabio},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Rodano},
+         familyi={R\bibinitperiod},
+         given={Giacomo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sette},
+         familyi={S\bibinitperiod},
+         given={Enrico},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Viggiano},
+         familyi={V\bibinitperiod},
+         given={Gianluca},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{PF+1}
+    \strng{fullhash}{PFRGSEVG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{The effects of the {COVID}-19 shock on corporates' liquidity needs, balance sheets and riskiness}
+    \verb{file}
+    \verb Parlapiano et al. - 2020 - THE EFFECTS OF THE COVID-19 SHOCK ON CORPO
+    \verb RATES’ L.pdf:/Users/marco/Zotero/storage/QSKTE44J/Parlapiano et al.
+    \verb  - 2020 - THE EFFECTS OF THE COVID-19 SHOCK ON CORPORATES’ L.pdf:ap
+    \verb plication/pdf
+    \endverb
+    \field{type}{Bank of {Italy}}
+    \field{year}{2020}
   \endentry
 
   \entry{peichl_eigenkapitalentwicklung_2021}{article}{}
@@ -728,6 +1300,52 @@
     \field{year}{2021}
   \endentry
 
+  \entry{piette_how_2022}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PC}{%
+         family={Piette},
+         familyi={P\bibinitperiod},
+         given={Ch},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Tielens},
+         familyi={T\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PCTJ1}
+    \strng{fullhash}{PCTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    The vaccine against bankruptcy was a blend of government support, use of private savings, loans, and moratoria.%
+    }
+    \field{note}{Publisher: National Bank of Belgium}
+    \field{pages}{1\bibrangedash 33}
+    \field{title}{How {Belgian} firms fared in the {COVID}-19 pandemic ?}
+    \verb{url}
+    \verb https://econpapers.repec.org/article/nbbecrart/y_3a2022_3am_3ajune1.h
+    \verb tm
+    \endverb
+    \verb{file}
+    \verb How Belgian firms fared in the COVID-19 pandemic:/Users/marco/Zotero/
+    \verb storage/B2CIHSU7/ecorevi2022_h7.pdf:application/pdf;RePEc Snapshot:/U
+    \verb sers/marco/Zotero/storage/EK5FPA2H/y_3a2022_3am_3ajune1.html:text/htm
+    \verb l
+    \endverb
+    \field{journaltitle}{Economic Review}
+    \field{year}{2022}
+    \field{urlday}{16}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{puhr_have_2021}{article}{}
     \name{author}{2}{}{%
       {{hash=PC}{%
@@ -778,6 +1396,54 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{stien_covid-19_2022}{thesis}{}
+    \name{author}{2}{}{%
+      {{hash=SH}{%
+         family={Stien},
+         familyi={S\bibinitperiod},
+         given={Håkon},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Risan},
+         familyi={R\bibinitperiod},
+         given={Kristoffer},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \strng{namehash}{SHRK1}
+    \strng{fullhash}{SHRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    The number of bankruptcies in the Norwegian economy dropped substantially during the COVID-19 pandemic. We investigate to what extent the arrangement for deferred payments of tax and duty claims contributed to keeping non-viable firms artificially alive during 2020 and 2021. First, we provide evidence that firms defined as non-viable prior to the pandemic were more likely to apply for and be granted tax deferrals than their healthier counterparts. This finding alone would imply that such firms might have exploited the arrangement to stay alive. Further, we estimate the effect of being granted tax deferrals on the probability of going bankrupt in 2020 or 2021. In 2020, we find that the firms granted tax deferrals were significantly less likely to go bankrupt than what would have been the case in the absence of support. However, we do not find statistically significant results when the same relationship is estimated in 2021. In sum, this implies that the arrangement may have kept non-viable firms artificially alive, albeit for a limited period of time.%
+    }
+    \field{note}{Accepted: 2022-08-30T10:32:41Z}
+    \field{shorttitle}{{COVID}-19 and {Government} {Aid}}
+    \field{title}{{COVID}-19 and {Government} {Aid}: {An} {Economy} on {Life} {Support}? {An} exploratory study of the effects of deferred tax payments in {Norway} during {COVID}-19}
+    \verb{url}
+    \verb https://openaccess.nhh.no/nhh-xmlui/handle/11250/3014324
+    \endverb
+    \verb{file}
+    \verb COVID-19 and Government Aid\: An Economy on Life Support?:/Users/marc
+    \verb o/Zotero/storage/MZE2ZGPK/masterthesis.pdf:application/pdf;Full Text
+    \verb PDF:/Users/marco/Zotero/storage/RPLP7ZYE/Stien and Risan - 2022 - COV
+    \verb ID-19 and Government Aid An Economy on Life Su.pdf:application/pdf
+    \endverb
+    \field{type}{mathesis}
+    \field{year}{2022}
+    \field{urlday}{14}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{tielens_belgian_2020}{article}{}
     \name{author}{3}{}{%
       {{hash=TJ}{%
@@ -818,6 +1484,73 @@
     \verb pdf
     \endverb
     \field{year}{2020}
+  \endentry
+
+  \entry{turkson_government_2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TD}{%
+         family={Turkson},
+         familyi={T\bibinitperiod},
+         given={Danny},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ANB}{%
+         family={Addai},
+         familyi={A\bibinitperiod},
+         given={Nana\bibnamedelima Boakyewaa},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Chowdhury},
+         familyi={C\bibinitperiod},
+         given={Farhat},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mohammed},
+         familyi={M\bibinitperiod},
+         given={Fatima},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19 pandemic, Firm performance, Italy, Sales revenue}
+    \strng{namehash}{TD+1}
+    \strng{fullhash}{TDANBCFMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    The effect of the COVID-19 pandemic has been severely detrimental to most firms. Preliminary estimates from Italy, which experienced the worst devastation from the virus during the early days of the pandemic, predicted that the country could lose at least \$8.3 bn in the service and manufacturing sectors due to the coronavirus pandemic. Although there has been a series of ongoing government policies to mitigate the economic effect of the pandemic, we do not know to what extent these policies have been effective. Using two-period panel data (before and during the pandemic) on 419 Italian firms, this study examines the impact of government policies on firms using first difference estimation. The results show that firms that received a government grant in relation to the COVID-19 pandemic saw on average an 11\% increase in sales revenue by the end of June 2020 compared to those yet to receive grants. A sectoral decomposition of the analysis indicates government policy to be effective in the services sector if performance is measured by sales revenue.%
+    }
+    \verb{doi}
+    \verb 10.1007/s43546-021-00170-6
+    \endverb
+    \field{issn}{2662-9399}
+    \field{number}{12}
+    \field{pages}{168}
+    \field{shorttitle}{Government policies and firm performance in the {COVID}-19 pandemic era}
+    \field{title}{Government policies and firm performance in the {COVID}-19 pandemic era: a sectoral analysis}
+    \verb{url}
+    \verb https://doi.org/10.1007/s43546-021-00170-6
+    \endverb
+    \field{volume}{1}
+    \verb{file}
+    \verb Full Text PDF:/Users/marco/Zotero/storage/YDEE8M83/Turkson et al. - 2
+    \verb 021 - Government policies and firm performance in the CO.pdf:applicat
+    \verb ion/pdf
+    \endverb
+    \field{journaltitle}{SN Business \& Economics}
+    \field{month}{11}
+    \field{year}{2021}
+    \field{urlday}{10}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
   \endentry
 \enddatalist
 \endinput

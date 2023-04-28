@@ -10,7 +10,9 @@
 
 \section{Data on Government support}
 
-The thesis uses data from state aid transparency database by the EU COM. The data base contains information about individual award data like beneficiary name, amount, Date of Granting, and the purpose of the state aid \parencite{eu_com_state_2023}. The legal base for the transparency requirement aid payments is Temporary Framework for State aid, however payments under 100.000 EUR (10.000 EUR for agricultural firm) are exempted from the transparency requirement, insofar the data base is not comprehensive. Nevertheless, as of spring 2023 for Germany 135.478 cases of aid related to the COVID-19 pandemic were disclosed under the objective “Remedy for a serious disturbance in the economy”. Unfortunately, the disclosed titles of the aid measures and case numbers doesn’t allow for reconciliation to the official names of the aid programs due to amendments and overlaps.
+The thesis uses data from european state aid transparency database \parencite{eu_com_state_2023}. The data base contains information about individual award data like beneficiary name, amount, Date of Granting, and the purpose of the state aid \parencite{eu_com_state_2023}. The legal base for the transparency requirement aid payments is Temporary Framework for State aid, however payments under 100.000 EUR (10.000 EUR for agricultural firm) are exempted from the transparency requirement, insofar the data base is not comprehensive. Nevertheless, as of spring 2023 for Germany 135.478 cases of aid related to the COVID-19 pandemic were disclosed under the objective “Remedy for a serious disturbance in the economy”. Unfortunately, the disclosed titles of the aid measures and case numbers doesn’t allow for reconciliation to the official names of the aid programs due to amendments and overlaps. In addition, in case of bigger companies the aid was usually calculation on a group level but awarded and paid in full to just one company of the group. (Sample shows that smaller companies are strongly represented)
+
+Another thing to be mentioned is that most direct grants were granted and paid on a provisional basis and are still subject to a final determination of the granted amount. For the research this doesn’t pose an issue, since the effects of payments will be observable regardless whether the amount of aid got adjusted in later period. 
 
 
 
@@ -22,9 +24,8 @@ The thesis uses data from state aid transparency database by the EU COM. The dat
 
 \section{Company level financial information}
 
-Policy intervention to "prevent” the effects and save businesses for a fast economic recovery.
-First assessments were modeling approaches.
-Already lots of early assessments of state aid, also at a firm level.
-For getting a better understanding on the effect of aid schemes in Germany a paper analyses the effect of a company’s cost structure on the effectives of aid measures (Bischof, Karlsson, Rostam-Aschar, Simon, 2021). 
-This paper assumes that companies within the same sector have a similar cost structure. 
-Since aid in Germany is based on the cost structure of companies, the authors conclude that based on the generalized approach of aid schemes, the effectiveness of aid is varying between business sectors.
+In Germany corporations are legally required to disclose their annual financial statements in the Federal Gazette. Although the discloser of financial information is legally required for corporations, in there are various exemption for example for companies that are consolidated into other companies’ balance sheets, and also non-compliant companies.
+The requirement on the disclosed financial information is depending on the size of the company. Bigger companies above certain thresholds additionally need disclose their profit and loss statements and management report additionally. However, all companies that are subject of regulation must disclose at least their balance sheet. 
+To not exclude SMEs systematically, due to missing profit and loss statements, the data collection process is limited to balance sheet information. 
+
+The main constraint in processing the financial information from the Federal Gazette is the vastly unstandardized formatting of balance sheets causing limited readability in the data parsing step. By scraping and parsing the data for benefices of pandemic government support X.XXX company balance sheets for at least one year in the period 2018 - 2022 could be obtained. 
