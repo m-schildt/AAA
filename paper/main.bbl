@@ -683,6 +683,65 @@
     \field{year}{2021}
   \endentry
 
+  \entry{dorr_small_2022}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DJO}{%
+         family={Dörr},
+         familyi={D\bibinitperiod},
+         given={Julian\bibnamedelima Oliver},
+         giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Licht},
+         familyi={L\bibinitperiod},
+         given={Georg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Murmann},
+         familyi={M\bibinitperiod},
+         given={Simona},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{COVID-19, Cleansing effect, Corporate insolvency, Entrepreneurship, G33, H12, H81, Insolvency law, L26, Liquidity support, SMEs}
+    \strng{namehash}{DJOLGMS1}
+    \strng{fullhash}{DJOLGMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    COVID-19 placed a special role on fiscal policy in rescuing companies short of liquidity from insolvency. In the first months of the crisis, SMEs as the backbone of Germany’s economy benefited from large and mainly indiscriminate aid measures. Avoiding business failures in a whatever-it-takes fashion contrasts, however, with the cleansing mechanism of economic crises: a mechanism which forces unviable firms out of the market, thereby reallocating resources efficiently. By focusing on firms’ pre-crisis financial standing, we estimate the extent to which the policy response induced an insolvency gap and analyze whether the gap is characterized by firms which were already struggling before the pandemic. With the policy measures being focused on smaller firms, we also examine whether this insolvency gap differs with respect to firm size. Our results show that the COVID-19 policy response in Germany has triggered a backlog of insolvencies that is particularly pronounced among financially weak, small firms, having potential long-term implications on entrepreneurship and economic recovery.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11187-021-00514-4
+    \endverb
+    \field{issn}{1573-0913}
+    \field{number}{2}
+    \field{pages}{887\bibrangedash 917}
+    \field{title}{Small firms and the {COVID}-19 insolvency gap}
+    \verb{url}
+    \verb https://doi.org/10.1007/s11187-021-00514-4
+    \endverb
+    \field{volume}{58}
+    \verb{file}
+    \verb Full Text PDF:/Users/marco/Zotero/storage/ETLXTNGB/Dörr et al. - 202
+    \verb 2 - Small firms and the COVID-19 insolvency gap.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Small Business Economics}
+    \field{month}{02}
+    \field{year}{2022}
+    \field{urlday}{11}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{ebeke_corporate_2021}{report}{}
     \name{author}{4}{}{%
       {{hash=EC}{%
@@ -981,6 +1040,49 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{julin_firm_2021}{report}{}
+    \name{author}{3}{}{%
+      {{hash=JIR}{%
+         family={Julin},
+         familyi={J\bibinitperiod},
+         given={Ida\bibnamedelima Rommedahl},
+         giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=OAM}{%
+         family={Otte},
+         familyi={O\bibinitperiod},
+         given={Alexander\bibnamedelima Meldgaard},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kuchler},
+         familyi={K\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{JIROAMKA1}
+    \strng{fullhash}{JIROAMKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{184}
+    \field{title}{Firm financing and public support measures during the pandemic}
+    \verb{file}
+    \verb Julin et al. - Firm financing and public support measures during .pdf
+    \verb :/Users/marco/Zotero/storage/5GRUEVHH/Julin et al. - Firm financing a
+    \verb nd public support measures during .pdf:application/pdf
+    \endverb
+    \field{type}{Danmarks {Nationalbank} {Working} {Papers}}
+    \field{year}{2021}
+  \endentry
+
   \entry{kfw_kfw-mittelstandspanel_2022}{report}{}
     \name{author}{1}{}{%
       {{hash=K}{%
@@ -1081,6 +1183,55 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{konings_impact_2022}{report}{}
+    \name{author}{3}{}{%
+      {{hash=KJ}{%
+         family={Konings},
+         familyi={K\bibinitperiod},
+         given={Jozef},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Magerman},
+         familyi={M\bibinitperiod},
+         given={Glenn},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=EDV}{%
+         family={Esbroeck},
+         familyi={E\bibinitperiod},
+         given={Dieter\bibnamedelima Van},
+         giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{KJMGEDV1}
+    \strng{fullhash}{KJMGEDV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    We analyze the impact of Covid-19 rescue policies on both ﬁrm-level and aggregate productivity growth and reallocation. Using administrative data on the universe of ﬁrms’ subsidies in Flanders, we estimate the causal impact of these subsidies on ﬁrm-level outcomes. Firms that received subsidies saw a 7\% increase in productivity, compared to ﬁrms that applied for, but did not obtain subsidies. Furthermore, the propensity to exit the market was 43\% lower for treated ﬁrms. Aggregate productivity growth, a share-weighted sum of ﬁrms’ productivity growth rates, amounted to 6\% in 2020. While within-ﬁrm productivity growth was similar for both subsidized and non-subsidized ﬁrms, there is a reallocation of market shares from subsidized ﬁrms to non-subsidized ﬁrms. These results suggest that Covid rescue policies helped ﬁrms to sustain and preserve productivity, while not obstructing allocative efﬁciency gains to non-subsidized ﬁrms.%
+    }
+    \field{number}{2022/06}
+    \field{title}{The {Impact} of {Firm}-level {Covid} {Rescue} {Policies} on {Productivity} {Growth} and {Reallocation}}
+    \list{institution}{1}{%
+      {Nazarbayev University, Graduate School of Business}%
+    }
+    \verb{file}
+    \verb Konings et al. - The Impact of Firm-level Covid Rescue Policies on .p
+    \verb df:/Users/marco/Zotero/storage/5CNLHLWF/Konings et al. - The Impact o
+    \verb f Firm-level Covid Rescue Policies on .pdf:application/pdf
+    \endverb
+    \field{type}{Working {Papers}}
+    \field{year}{2022}
+  \endentry
+
   \entry{lalinsky_distribution_2021}{article}{}
     \name{author}{2}{}{%
       {{hash=LT}{%
@@ -1134,6 +1285,99 @@
     \field{journaltitle}{Structural Change and Economic Dynamics}
     \field{year}{2021}
     \field{urlday}{10}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{marek_impact_2022}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MP}{%
+         family={Marek},
+         familyi={M\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Gärtner},
+         familyi={G\bibinitperiod},
+         given={Leo},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{MPGL1}
+    \strng{fullhash}{MPGL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    The economic policy response to COVID-19 lockdowns included a variety of measures. Their eﬀects on non-ﬁnancial ﬁrms, however, remain unclear. To shed light on the eﬀect of transfers, we investigate the eﬀect of German emergency aid transfers (November-December aid), a program designed for small and medium sized ﬁrms. Using novel survey data, we exploit variation in application status to estimate its eﬀects on the ﬁnancial situation of ﬁrms. We distinguish between ﬁrms that had already used aid transfers and those ﬁrms with a pending application.%
+    }
+    \verb{doi}
+    \verb 10.2139/ssrn.4156119
+    \endverb
+    \field{issn}{1556-5068}
+    \field{shorttitle}{The {Impact} of {German} {Public} {Support} {Transfers} on {Firm} {Finance}}
+    \field{title}{The {Impact} of {German} {Public} {Support} {Transfers} on {Firm} {Finance}: {Evidence} from the {COVID}-19 {Crisis}}
+    \verb{url}
+    \verb https://www.ssrn.com/abstract=4156119
+    \endverb
+    \verb{file}
+    \verb Marek and Gärtner - 2022 - The Impact of German Public Support Trans
+    \verb fers on F.pdf:/Users/marco/Zotero/storage/37K248MU/Marek and Gärtner
+    \verb  - 2022 - The Impact of German Public Support Transfers on F.pdf:appl
+    \verb ication/pdf
+    \endverb
+    \field{journaltitle}{SSRN Electronic Journal}
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{oced_one_2021}{report}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={{OCED}},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \verb{doi}
+    \verb 10.1787/9a230220-en
+    \endverb
+    \field{note}{Series: OECD Policy Responses to Coronavirus (COVID-19)}
+    \field{shorttitle}{One year of {SME} and entrepreneurship policy responses to {COVID}-19}
+    \field{title}{One year of {SME} and entrepreneurship policy responses to {COVID}-19: {Lessons} learned to “build back better”}
+    \verb{url}
+    \verb https://www.oecd-ilibrary.org/social-issues-migration-health/one-year
+    \verb -of-sme-and-entrepreneurship-policy-responses-to-covid-19-lessons-lea
+    \verb rned-to-build-back-better_9a230220-en
+    \endverb
+    \verb{file}
+    \verb 2021 - One year of SME and entrepreneurship policy respon.pdf:/Users/
+    \verb marco/Zotero/storage/7ZRI7JNT/2021 - One year of SME and entrepreneur
+    \verb ship policy respon.pdf:application/pdf
+    \endverb
+    \field{type}{{OECD} {Policy} {Responses} to {Coronavirus} ({COVID}-19)}
+    \field{month}{04}
+    \field{year}{2021}
+    \field{urlday}{14}
     \field{urlmonth}{04}
     \field{urlyear}{2023}
   \endentry

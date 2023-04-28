@@ -24,51 +24,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10040 items from 5000.
 Database file #1: main-blx.bib
 Database file #2: library.bib
-Warning--I didn't find a database entry for "konings_impact_nodate"
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 31 entries,
+You've used 36 entries,
             6399 wiz_defined-function locations,
-            1461 strings with 39233 characters,
-and the built_in function-call counts, 301142 in all, are:
-= -- 21737
-> -- 9548
-< -- 1357
-+ -- 13167
-- -- 6751
-* -- 20878
-:= -- 36712
+            1503 strings with 44399 characters,
+and the built_in function-call counts, 347976 in all, are:
+= -- 25041
+> -- 11045
+< -- 1622
++ -- 15011
+- -- 7752
+* -- 24289
+:= -- 42030
 add.period$ -- 0
-call.type$ -- 31
-change.case$ -- 526
-chr.to.int$ -- 636
-cite$ -- 60
-duplicate$ -- 30517
-empty$ -- 24395
-format.name$ -- 2260
-if$ -- 55722
+call.type$ -- 36
+change.case$ -- 642
+chr.to.int$ -- 720
+cite$ -- 70
+duplicate$ -- 35038
+empty$ -- 28280
+format.name$ -- 2640
+if$ -- 64714
 int.to.chr$ -- 0
-int.to.str$ -- 97
+int.to.str$ -- 113
 missing$ -- 0
-newline$ -- 1556
-num.names$ -- 1522
-pop$ -- 11030
+newline$ -- 1800
+num.names$ -- 1804
+pop$ -- 12788
 preamble$ -- 1
-purify$ -- 722
+purify$ -- 869
 quote$ -- 0
-skip$ -- 6313
+skip$ -- 7479
 stack$ -- 0
-substring$ -- 41104
-swap$ -- 6565
-text.length$ -- 1121
-text.prefix$ -- 32
+substring$ -- 47411
+swap$ -- 7676
+text.length$ -- 1315
+text.prefix$ -- 37
 top$ -- 1
-type$ -- 1000
+type$ -- 1155
 warning$ -- 0
-while$ -- 4255
+while$ -- 4832
 width$ -- 0
-write$ -- 1526
-(There was 1 warning)
+write$ -- 1765

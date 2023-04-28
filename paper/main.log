@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  28 APR 2023 08:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  28 APR 2023 20:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -826,32 +826,28 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 (./Chapters/Chapter1_SupOverview.tex
 Chapter 1.
-
-Overfull \hbox (2.95816pt too wide) in paragraph at lines 17--20
-\T1/ppl/m/n/12 due to con-cerns of dis-tort-ing com-pet-ing in the Eu-ro-pean sin-gle mar-ket ([]Claici,
- []
-
 1: section
 [1
 
 
 
-] (./Tables/table_1.tex)) [2]
+] (./Tables/table_1.tex)) [2] [3]
 \openout2 = `Chapters/Chapter2_LitRev.aux'.
 
  (./Chapters/Chapter2_LitRev.tex
 Chapter 2.
+
+Overfull \hbox (5.95952pt too wide) in paragraph at lines 13--14
+\T1/ppl/m/n/12 drops in de-mand and con-tain-ment mea-sures or-dered by au-thor-i-ties ([]EU COM,
+ []
+
 1: section
-[3
+[4
 
 
 
 
-] [4] [5]
-
-LaTeX Warning: Citation 'konings_impact_nodate' on page 6 undefined on input line 62.
-
-) [6]
+] [5] [6] [7]) [8]
 \openout2 = `Chapters/Chapter3_DataSource.aux'.
 
  (./Chapters/Chapter3_DataSource.tex
@@ -862,60 +858,52 @@ Overfull \hbox (3.87144pt too wide) in paragraph at lines 13--14
  []
 
 1: section
-[7
-
-
-
-
-]) [8]
-\openout2 = `Chapters/Chapter4_Methods.aux'.
-
- (./Chapters/Chapter4_Methods.tex
-Chapter 4.
-1: section
 [9
 
 
 
 
-]
+]) [10]
+\openout2 = `Chapters/Chapter4_Methods.aux'.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 24.
+ (./Chapters/Chapter4_Methods.tex
+Chapter 4.
+1: section
+[11
 
-[10]) [11]
+
+
+
+] [12]) [13]
 \openout2 = `Chapters/Chapter5_Results.aux'.
 
  (./Chapters/Chapter5_Results.tex
 Chapter 5.
-<Figures/chart_ratios.png, id=292, 1084.05pt x 289.08pt>
+<Figures/chart_ratios.png, id=316, 1084.05pt x 289.08pt>
 File: Figures/chart_ratios.png Graphic file (type png)
 <use Figures/chart_ratios.png>
 Package pdftex.def Info: Figures/chart_ratios.png  used on input line 20.
 (pdftex.def)             Requested size: 484.83366pt x 129.2908pt.
-1: section
-[12
-
-
-
-
-]) [13 <./Figures/chart_ratios.png>]
-\openout2 = `Chapters/Chapter6_Conclusion.aux'.
-
- (./Chapters/Chapter6_Conclusion.tex
-Chapter 6.
-
-Overfull \hbox (4.0386pt too wide) in paragraph at lines 13--16
-\T1/ppl/m/n/12 Research un-am-bigu-ous con-cluded that COVID-19 cri-sis neg-a-tively in-flu-enced
- []
-
+)
 1: section
 [14
 
 
 
 
-]) [15]
+] [15 <./Figures/chart_ratios.png>]
+\openout2 = `Chapters/Chapter6_Conclusion.aux'.
+
+ (./Chapters/Chapter6_Conclusion.tex
+Chapter 6.
+)
+1: section
+[16
+
+
+
+
+]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (./Appendices/AppendixA.tex
@@ -925,7 +913,7 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ))
 1: section
-[16
+[17
 
 
 
@@ -956,7 +944,7 @@ Overfull \hbox (29.4728pt too wide) in paragraph at lines 227--227
  []
 
 1: section
-[17
+[18
 
 
 
@@ -975,15 +963,31 @@ Overfull \hbox (33.39322pt too wide) in paragraph at lines 227--227
 \T1/cmtt/m/n/12 bundesbank . de / resource / blob / 827826 / 967001c31efc4ad77fed0abbe19f6ac0 /
  []
 
+
+Overfull \hbox (2.63753pt too wide) in paragraph at lines 227--227
+\T1/cmtt/m/n/12 eu / competition / transparency / public ? lang = en$[][] \T1/ppl/m/n/12 (vis-ited on 04/25/2023). 
+ []
+
+[19]
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 227.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [18]
+)
+Overfull \hbox (12.97404pt too wide) in paragraph at lines 227--227
+[][]\T1/ppl/m/n/12 Julin, Ida Rommedahl, Alexan-der Meldgaard Otte, and An-dreas Kuch-ler (2021).
+ []
+
+
 Overfull \hbox (21.27272pt too wide) in paragraph at lines 227--227
 \T1/ppl/m/n/12 0560. \T1/ppl/m/sc/12 doi\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 10 . 1016 / j . iref . 2023 . 03 . 038$[][]\T1/ppl/m/n/12 . \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect .
  []
 
-[19] [20]
+[20]
+Overfull \hbox (3.89142pt too wide) in paragraph at lines 227--227
+\T1/ppl/m/it/12 COVID-19: Lessons learned to ^^Pbuild back bet-ter^^Q\T1/ppl/m/n/12 . en. OECD Pol-icy Re-sponses
+ []
+
+[21] [22]
 --------------------
  Statement of Authorship
 --------------------
@@ -1008,36 +1012,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--250
  []
 
 1: section
-[21
+[23
 
 ] (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux))
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E6AAFCF800FC8F39D8782B2861F4142E;3744.
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29112 strings out of 476025
- 645718 string characters out of 5790018
- 1869388 words of memory out of 5000000
- 49077 multiletter control sequences out of 15000+600000
+ 29163 strings out of 476025
+ 647140 string characters out of 5790018
+ 1870388 words of memory out of 5000000
+ 49121 multiletter control sequences out of 15000+600000
  556489 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,21n,93p,3344b,2017s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,21n,93p,3344b,2009s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (27 pages, 245719 bytes).
+Output written on main.pdf (29 pages, 247224 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
- 415 compressed objects within 5 object streams
- 91 named destinations out of 1000 (max. 500000)
+ 497 PDF objects out of 1000 (max. 8388607)
+ 445 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
