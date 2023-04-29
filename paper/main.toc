@@ -15,12 +15,12 @@
 \contentsline {section}{\numberline {4.3}Causal Curve}{14}{section.24}%
 \contentsline {chapter}{\numberline {5}Results}{15}{chapter.25}%
 \contentsline {section}{\numberline {5.1}Balance Sheet Ratios}{15}{section.26}%
-\contentsline {section}{\numberline {5.2}Diff and Diff}{16}{section.28}%
-\contentsline {section}{\numberline {5.3}Causal Curve}{16}{section.30}%
-\contentsline {chapter}{\numberline {6}Conclusion}{18}{chapter.31}%
-\contentsline {section}{\numberline {6.1}Policy Implications}{18}{section.32}%
-\contentsline {section}{\numberline {6.2}Conclusion}{18}{section.33}%
-\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{19}{appendix.34}%
-\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{19}{section.35}%
-\contentsline {chapter}{Bibliography}{20}{appendix*.36}%
-\contentsline {chapter}{Statement of Authorship}{25}{section*.37}%
+\contentsline {section}{\numberline {5.2}Difference-in-Differences}{16}{section.28}%
+\contentsline {section}{\numberline {5.3}Causal Curve}{18}{section.30}%
+\contentsline {chapter}{\numberline {6}Conclusion}{19}{chapter.31}%
+\contentsline {section}{\numberline {6.1}Policy Implications}{19}{section.32}%
+\contentsline {section}{\numberline {6.2}Conclusion}{19}{section.33}%
+\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{20}{appendix.34}%
+\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{20}{section.35}%
+\contentsline {chapter}{Bibliography}{22}{appendix*.37}%
+\contentsline {chapter}{Statement of Authorship}{27}{section*.38}%
