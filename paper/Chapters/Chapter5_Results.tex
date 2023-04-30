@@ -51,7 +51,7 @@ In summary both aid measures have a significant effect on the cash ratio indicat
 
     \small  Notes: Standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1
 
-    \end{table}
+\end{table}
 
 
 %----------------------------------------------------------------------------------------
@@ -65,24 +65,15 @@ In summary both aid measures have a significant effect on the cash ratio indicat
 
 
 
-
-
 %----------------------------------------------------------------------------------------
 %	SECTION 4
 %----------------------------------------------------------------------------------------
 
 \section{Insolvencies}
 
-\begin{figure}
-    \centering
-    \makebox[\textwidth][c]{\includegraphics[width=1.2\columnwidth]{Figures/chart_ratios_insolvence}}%
-    
-    \decoRule
-    \caption[Balance sheet ratios]{Boxplot with balance sheet ratios from the obained dataset.}
-    \label{fig:RatiosInsolvency}
-    \end{figure}
+\subsection{Share of insolvencies}
 
-
+To further understand how effective the aid measures were in preventing insolvencies, the obtained data on insolvencies was matched with the beneficiaries in the state aid transparency data base. The data on insolvencies ranges from 2020 to March 2023. However, matches only appeared 2021 and after. In total 953 insolvent firms were identified representing a share of 0.92 \% of all transparency data base, as shown in table \ref{tab:InsBySize}. A further breakdown reveals that the share of SMEs is significantly lower than their larger counterparts. Due to the fact that the transparency data base only provides very few beneficiaries with aid payments below 100.000 EUR, smaller companies with aid below the threshold are not well represented. Therefore, the numbers only give an indication.
 
 \begin{table}
     \caption{Share of insolvent aid  beneficiaries by size}
@@ -94,10 +85,10 @@ In summary both aid measures have a significant effect on the cash ratio indicat
 
     \small  Notes: 
 
-    \end{table}
+\end{table}
 
 
-
+In the next step the industries of insolvent beneficiaries were analyzed. The results for the most represented industries are presented in table \ref{tab:InsByIndustry_short}. A more comprehensive table with more industries is in \ref{AppendixB}. The finding show that food and beverage service activities is the industry with most beneficiaries, but only has a share 0.58 \% of insolvencies that well below the average. Similarly, the accommodation sectors is highly represented. With only 24 insolvencies out of 9.885 recipients is has the lowest share amongst the most represented industries. On the higher end are specialized construction activities with a share of 1.66 \%. The closely related sector building construction has an even higher share with 2.97 \%, but is less represented and therefore only shown in the appendix. Partially, even higher shares are present in the data, but only in underrepresented industries. 
 
 
 \begin{table}
@@ -110,7 +101,30 @@ In summary both aid measures have a significant effect on the cash ratio indicat
 
     \small  Notes: Tables shows industries with more than 3000 beneficiaries and is sorted by insolvencies.
 
-    \end{table}
+\end{table}
+
+\subsection{Ratios of insolvencies}
+
+Next, the ratios of insolvent beneficiaries are analyzed and compared to the other beneficiaries. For the comparison the cash ratio and the debt-to-asset-ratio are chosen to analyze the liquidity and solvency. Figure \ref{fig:Ratios_short} shows the already for section \ref{BSratio} used boxplot, but grouped into solvent (light blue) and insolvent (darker blue). For the liquidity ratio a clear discrepancy can be observe throughout all periods. The group of companies that later got insolvent has already before 2020 significantly less liquidity than the other group. However, in 2020 and 2021 their cash ratio is also increasing, like the solvent group.
+The debt-to-asset-ratio comparison also shows a clear gap between both groups. The companies with are later becoming insolvent already have a higher leverage before and after the start of the pandemic. 
+
+
+\begin{figure}
+    \centering
+    \makebox[\textwidth][c]{\includegraphics[width=1.2\columnwidth]{Figures/chart_ratios_insolvence}}%
+    
+    \decoRule
+    \caption[Balance sheet ratios]{Boxplot with balance sheet ratios from the obained dataset.}
+    \label{fig:RatiosInsolvency}
+\end{figure}
+
+
+\subsection{Aid effect on companies that later become insolvent}
+
+Next, the group of future insolvent companies were used for a difference in differences experiment to estimate the treatment effect of aid on the subgroup. Results are shown in table \ref{tab:DiDresultsInsolvent}. Two coefficients with statistical significance were identified, both of them in 2020 and for loans. First, the treatment effect of aid was 0.0427 on the cash ratio. The effect is weaker than the 0.527 that got estimated on the complete data set. This can be understood that these companies absorbed the liquidity from loans quicker due to a greater need of liquidity. The other slightly significant coefficient indicates a positive effect on the debt-to-asset-ratio of 0.0882 which is also higher than the overall effect from all companies.  This shows that the later insolvent companies had a greater chance of indebtedness from loan based aid measures, than other companies. Thus, additional indebtedness through the aid measure is increasing the risk for insolvency.
+
+
+
         
 
 \begin{table}
@@ -123,7 +137,7 @@ In summary both aid measures have a significant effect on the cash ratio indicat
 
     \small  Notes: Standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1
 
-    \end{table}
+\end{table}
     
 
 
