@@ -9,6 +9,7 @@
 %----------------------------------------------------------------------------------------
 
 \section{Balance Sheet Ratios}
+\label{BSratio}
 
 The average observed liquidity ratios shown in Figure \ref{fig:Ratios} for all companies of the dataset are showing an increase in liquidity in 2020 and 2021 compared to the pre pandemic years indication that companies are holding relatively more cash at the year-end since the pandemic. A study conducted by the German Federal Bank reported an increase in the average cash ratio for German companies in 2020 as well as in 2021 \parencite{deutsche_bundesbank_jahresabschlussstatistik_2022}. For example, for SME corporations the study reported a change in the cash ratio from 0.104 (2019) to 0.110 (2020). For the current ratio and quick ratio, the same trend was reported. Further support for an increase in the quick ratio was found by another study \parencite{bley_mittelstand_2022}. Although the exact ratios are varying between studies, there is strong support for the general trend of increasing liquidity in 2020 and 2021.
 
@@ -17,7 +18,7 @@ Solvency ratios are showing a less clear trend after the COVID-19 pandemic. Alth
 
 \begin{figure}
 \centering
-\makebox[\textwidth][c]{\includegraphics[width=1.2\columnwidth]{Figures/chart_ratios}}%
+\makebox[\textwidth][c]{\includegraphics[width=1.3\columnwidth]{Figures/chart_ratios}}%
 
 \decoRule
 \caption[Balance sheet ratios]{Boxplot with balance sheet ratios from the obained dataset.}
@@ -37,14 +38,14 @@ The quick ratio and the current ratio only have statistically significant for lo
 
 In the row for the debt-to-equity ratio strongly positive coefficients were observed for loans in 2020 and 2021. Since the debt-to-equity ratio reflects a firm’s leverage it is plausible that loans have a causal effect on debt. Regarding the equity ratio in following row a negative effect of loans was estimated for 2020 and 2021. For grants, which aren’t affecting a firm’s debt, no statistically significant effect was observable and thus indicating that grants didn’t support the equity of firm. Further support for the increase in leverage through loans comes from the debt-to-asset ratio coefficients. The effects for loans are strong in 2020 and 2021 with 7.15 \% and 5.26 \%. 
 For grants the causal effect is 4,12 \% in 2020 and reversing in 2021 to - 3.02 \%. The positive effect in 2020 is in line with missing effect on the equity ratio. The negative coefficient in 2021 on the other hand, indicates that grants helped firm’s to reduce leverage by slightly.
-In summary both aid measures have a significant effect on the cash ratio indicating a liquidity boost. This indicates that loans were not used for refinancing, but actually served as liquidity injection as intended by the policy makers. Also, the increase in leverage from loans is measurable as expected. However, the estimates doesn`t support the expectation that grant protect the equity. The positive effect of grants on debt-to-asset ratio and the missing effect on the cash ratio in 2020 suggests that the aid was not sufficient for the liquidity short falls and companies had to rely on debt from other sources for liquidity injections. The reversal in 2021 suggests that grants only became effective in 2021. However, this could be related to the fact that only relatively little grants were provided in 2020.
 
+In summary both aid measures have a significant effect on the cash ratio indicating a liquidity boost. The measured increase in liquidity through loans indicates that they were not used for refinancing existing debt, but served as liquidity injection as intended by the policy makers. Also, the increase in leverage from loans is measurable as expected. However, the estimates doesn`t support the expectation that grants protect the equity. The positive effect of grants on debt-to-asset ratio and the missing effect on the cash ratio in 2020 suggest that the grants were not sufficient to prevent liquidity short falls and therefore companies had to rely on debt from other sources for additional liquidity. The reversal of the effect on the debt-to-asset ratio and the effect on the cash ratio in 2021 suggest that grants only became effective in providing sufficient liquidity and reducing leverage in 2021. However, this could be related to the fact that only relatively little grants were provided in 2020.
 
 \begin{table}
     \caption{Government aid impact on ratios}
     \label{tab:DiDresults}
     \centering
-    \def\arraystretch{1.5}
+    \def\arraystretch{1.2}
     \centering
     \input{{Tables/table_did.tex}}
 
@@ -59,3 +60,73 @@ In summary both aid measures have a significant effect on the cash ratio indicat
 
 \section{Causal Curve}
 
+
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	SECTION 4
+%----------------------------------------------------------------------------------------
+
+\section{Insolvencies}
+
+\begin{figure}
+    \centering
+    \makebox[\textwidth][c]{\includegraphics[width=1.2\columnwidth]{Figures/chart_ratios_insolvence}}%
+    
+    \decoRule
+    \caption[Balance sheet ratios]{Boxplot with balance sheet ratios from the obained dataset.}
+    \label{fig:RatiosInsolvency}
+    \end{figure}
+
+
+
+\begin{table}
+    \caption{Share of insolvent aid  beneficiaries by size}
+    \label{tab:InsBySize}
+    \centering
+    \def\arraystretch{1.2}
+    \centering
+    \input{{Tables/table_InsBySize.tex}}
+
+    \small  Notes: 
+
+    \end{table}
+
+
+
+
+
+\begin{table}
+    \caption{Share of insolvent aid  beneficiaries by industry}
+    \label{tab:InsByIndustry_short}
+    \centering
+    \def\arraystretch{1}
+    \centering
+    \input{{Tables/table_InsByIndustry_short.tex}}
+
+    \small  Notes: Tables shows industries with more than 3000 beneficiaries and is sorted by insolvencies.
+
+    \end{table}
+        
+
+\begin{table}
+    \caption{Government aid impact on ratios}
+    \label{tab:DiDresultsInsolvent}
+    \centering
+    \def\arraystretch{1.2}
+    \centering
+    \input{{Tables/table_did_insolv.tex}}
+
+    \small  Notes: Standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1
+
+    \end{table}
+    
+
+
+
+    
+    

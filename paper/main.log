@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  29 APR 2023 07:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  30 APR 2023 04:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,21 +792,21 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [1
 
 
-] (./main.toc)
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
-
+] (./main.toc
 1: section
 [2
 
-] (./main.lof)
+])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [3] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
 
 1: section
-[3
+[4
 
 ] (./main.lot)
 \tf@lot=\write7
@@ -814,11 +814,11 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 
 1: section
-[4
+[5
 
 ]
 1: section
-[5
+[6
 
 ]
 1: section
@@ -879,13 +879,13 @@ Chapter 4.
 
  (./Chapters/Chapter5_Results.tex
 Chapter 5.
-<Figures/chart_ratios.png, id=332, 1084.05pt x 289.08pt>
+<Figures/chart_ratios.png, id=356, 867.24pt x 289.08pt>
 File: Figures/chart_ratios.png Graphic file (type png)
 <use Figures/chart_ratios.png>
-Package pdftex.def Info: Figures/chart_ratios.png  used on input line 20.
-(pdftex.def)             Requested size: 484.83366pt x 129.2908pt.
+Package pdftex.def Info: Figures/chart_ratios.png  used on input line 21.
+(pdftex.def)             Requested size: 525.23903pt x 175.08582pt.
 
-Overfull \hbox (4.14676pt too wide) in paragraph at lines 34--35
+Overfull \hbox (4.14676pt too wide) in paragraph at lines 35--36
 \T1/ppl/m/n/12 The in-ter-ac-tion terms from the difference-in-differences re-gres-sions are shown
  []
 
@@ -895,14 +895,25 @@ Overfull \hbox (4.14676pt too wide) in paragraph at lines 34--35
 
 
 
-] [16 <./Figures/chart_ratios.png>] (./Tables/table_did.tex)) [17] [18]
+] [16 <./Figures/chart_ratios.png>] (./Tables/table_did.tex)
+<Figures/chart_ratios_insolvence.png, id=372, 650.43pt x 289.08pt>
+File: Figures/chart_ratios_insolvence.png Graphic file (type png)
+<use Figures/chart_ratios_insolvence.png>
+Package pdftex.def Info: Figures/chart_ratios_insolvence.png  used on input line 78.
+(pdftex.def)             Requested size: 484.83366pt x 215.48616pt.
+ (./Tables/table_InsBySize.tex) (./Tables/table_InsByIndustry_short.tex)
+Overfull \hbox (31.14651pt too wide) in paragraph at lines 1--110
+ [][] 
+ []
+
+(./Tables/table_did_insolv.tex)) [17] [18 <./Figures/chart_ratios_insolvence.png>] [19]
 \openout2 = `Chapters/Chapter6_Conclusion.aux'.
 
  (./Chapters/Chapter6_Conclusion.tex
 Chapter 6.
 )
 1: section
-[19
+[20
 
 
 
@@ -916,18 +927,28 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ) (./Tables/table_did_all.tex)
-Overfull \hbox (62.82814pt too wide) in paragraph at lines 1--35
+Overfull \hbox (57.12807pt too wide) in paragraph at lines 1--35
+ [][] 
+ []
+
+1: section
+[21
+
+
+
+
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [22]
+Appendix B.
+(./Tables/table_InsByIndustry.tex)
+Overfull \hbox (47.87454pt too wide) in paragraph at lines 1--54
  [][] 
  []
 
 )
 1: section
-[20
+[23
 
-
-
-
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [21]
+] [24]
 Overfull \hbox (51.45264pt too wide) in paragraph at lines 231--231
 \T1/ppl/m/n/12 BANK. \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / www . bvr . de / p . nsf / 0 / 31959EDD28C91416C1258916002CE183 /
  []
@@ -953,7 +974,7 @@ Overfull \hbox (29.4728pt too wide) in paragraph at lines 231--231
  []
 
 1: section
-[22
+[25
 
 
 
@@ -977,7 +998,7 @@ Overfull \hbox (2.63753pt too wide) in paragraph at lines 231--231
 \T1/cmtt/m/n/12 eu / competition / transparency / public ? lang = en$[][] \T1/ppl/m/n/12 (vis-ited on 04/25/2023). 
  []
 
-[23]
+[26]
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 231.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
@@ -991,12 +1012,12 @@ Overfull \hbox (21.27272pt too wide) in paragraph at lines 231--231
 \T1/ppl/m/n/12 0560. \T1/ppl/m/sc/12 doi\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 10 . 1016 / j . iref . 2023 . 03 . 038$[][]\T1/ppl/m/n/12 . \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect .
  []
 
-[24]
+[27]
 Overfull \hbox (3.89142pt too wide) in paragraph at lines 231--231
 \T1/ppl/m/it/12 COVID-19: Lessons learned to ^^Pbuild back bet-ter^^Q\T1/ppl/m/n/12 . en. OECD Pol-icy Re-sponses
  []
 
-[25] [26]
+[28] [29]
 --------------------
  Statement of Authorship
 --------------------
@@ -1021,28 +1042,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--254
  []
 
 1: section
-[27
+[30
 
 ] (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AEB34DCD15D9E7A9262B4690DD3F1CE6;3852.
+(rerunfilecheck)             Checksum: 251D6A0CA46CE1066CC6F6FFB98F7BAD;4294.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29194 strings out of 476025
- 647655 string characters out of 5790018
- 1871388 words of memory out of 5000000
- 49133 multiletter control sequences out of 15000+600000
+ 29249 strings out of 476025
+ 649142 string characters out of 5790018
+ 1873388 words of memory out of 5000000
+ 49164 multiletter control sequences out of 15000+600000
  557646 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,21n,93p,3344b,2009s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,21n,93p,3344b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (33 pages, 271486 bytes).
+Output written on main.pdf (37 pages, 292056 bytes).
 PDF statistics:
- 537 PDF objects out of 1000 (max. 8388607)
- 477 compressed objects within 5 object streams
- 107 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 515 compressed objects within 6 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 227 words of extra memory for PDF output out of 10000 (max. 10000000)
 
