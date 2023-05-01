@@ -7,25 +7,29 @@
 \contentsline {chapter}{\numberline {3}Data Sources}{9}{chapter.12}%
 \contentsline {section}{\numberline {3.1}Data on Government support}{9}{section.13}%
 \contentsline {section}{\numberline {3.2}Company level financial information}{9}{section.14}%
-\contentsline {chapter}{\numberline {4}Methods}{11}{chapter.15}%
-\contentsline {section}{\numberline {4.1}Balance Sheet Ratios}{11}{section.16}%
-\contentsline {subsection}{\numberline {4.1.1}Liquidity Ratios}{11}{subsection.17}%
-\contentsline {subsection}{\numberline {4.1.2}Solvency Ratios}{12}{subsection.18}%
-\contentsline {section}{\numberline {4.2}Difference-in-Differences}{12}{section.20}%
-\contentsline {section}{\numberline {4.3}Causal Curve}{14}{section.24}%
-\contentsline {chapter}{\numberline {5}Results}{15}{chapter.25}%
-\contentsline {section}{\numberline {5.1}Balance Sheet Ratios}{15}{section.26}%
-\contentsline {section}{\numberline {5.2}Difference-in-Differences}{16}{section.28}%
-\contentsline {section}{\numberline {5.3}Causal Curve}{17}{section.30}%
-\contentsline {section}{\numberline {5.4}Insolvencies}{17}{section.31}%
-\contentsline {subsection}{\numberline {5.4.1}Share of insolvencies}{17}{subsection.32}%
-\contentsline {subsection}{\numberline {5.4.2}Ratios of insolvencies}{19}{subsection.35}%
-\contentsline {subsection}{\numberline {5.4.3}Aid effect on companies that later become insolvent}{19}{subsection.37}%
-\contentsline {chapter}{\numberline {6}Conclusion}{22}{chapter.39}%
-\contentsline {section}{\numberline {6.1}Policy Implications}{22}{section.40}%
-\contentsline {section}{\numberline {6.2}Conclusion}{22}{section.41}%
-\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{23}{appendix.42}%
-\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{23}{section.43}%
-\contentsline {chapter}{\numberline {B}Full list of insolvent aid beneficiaries by industry}{25}{appendix.45}%
-\contentsline {chapter}{Bibliography}{27}{appendix*.47}%
-\contentsline {chapter}{Statement of Authorship}{32}{section*.48}%
+\contentsline {section}{\numberline {3.3}Insolvency information}{10}{section.15}%
+\contentsline {chapter}{\numberline {4}Methods}{11}{chapter.16}%
+\contentsline {section}{\numberline {4.1}Balance Sheet Ratios}{11}{section.17}%
+\contentsline {subsection}{\numberline {4.1.1}Liquidity Ratios}{11}{subsection.18}%
+\contentsline {subsection}{\numberline {4.1.2}Solvency Ratios}{12}{subsection.19}%
+\contentsline {section}{\numberline {4.2}Difference-in-Differences}{12}{section.21}%
+\contentsline {section}{\numberline {4.3}Causal Curve}{14}{section.25}%
+\contentsline {chapter}{\numberline {5}Results}{17}{chapter.28}%
+\contentsline {section}{\numberline {5.1}Data insights on beneficiaries}{17}{section.29}%
+\contentsline {subsection}{\numberline {5.1.1}Liquidity}{17}{subsection.30}%
+\contentsline {subsection}{\numberline {5.1.2}Solvency}{18}{subsection.31}%
+\contentsline {subsection}{\numberline {5.1.3}Insolvencies of beneficiaries}{18}{subsection.33}%
+\contentsline {subsection}{\numberline {5.1.4}Ratios of insolvencies}{20}{subsection.36}%
+\contentsline {section}{\numberline {5.2}The effect of government support}{20}{section.38}%
+\contentsline {subsection}{\numberline {5.2.1}The average effect on firm liquidity}{20}{subsection.39}%
+\contentsline {subsection}{\numberline {5.2.2}The average effect on solvency of firms}{21}{subsection.40}%
+\contentsline {subsection}{\numberline {5.2.3}Aid effect on companies that later become insolvent}{22}{subsection.42}%
+\contentsline {section}{\numberline {5.3}Causal Curve}{23}{section.44}%
+\contentsline {chapter}{\numberline {6}Conclusion}{24}{chapter.45}%
+\contentsline {section}{\numberline {6.1}Policy Implications}{24}{section.46}%
+\contentsline {section}{\numberline {6.2}Conclusion}{24}{section.47}%
+\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{25}{appendix.48}%
+\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{25}{section.49}%
+\contentsline {chapter}{\numberline {B}Full list of insolvent aid beneficiaries by industry}{27}{appendix.51}%
+\contentsline {chapter}{Bibliography}{29}{appendix*.53}%
+\contentsline {chapter}{Statement of Authorship}{34}{section*.54}%

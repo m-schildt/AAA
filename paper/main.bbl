@@ -913,6 +913,36 @@
     \field{year}{2021}
   \endentry
 
+  \entry{galagate_causal_2016}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=GD}{%
+         family={Galagate},
+         familyi={G\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{GD1}
+    \strng{fullhash}{GD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Causal inference with a continuous treatment and outcome: {Alternative} estimators for parametric dose-response functions with applications}
+    \verb{file}
+    \verb Galagate - CAUSAL INFERENCE WITH A CONTINUOUS TREATMENT AND O.pdf:/Us
+    \verb ers/marco/Zotero/storage/ZRPVV7TC/Galagate - CAUSAL INFERENCE WITH A
+    \verb CONTINUOUS TREATMENT AND O.pdf:application/pdf
+    \endverb
+    \field{type}{phdthesis}
+    \field{year}{2016}
+  \endentry
+
   \entry{harasztosi_firm-level_2022}{article}{}
     \name{author}{5}{}{%
       {{hash=HP}{%
@@ -975,6 +1005,55 @@
     \field{month}{01}
     \field{year}{2022}
     \field{urlday}{10}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{hirano_propensity_2004}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=HK}{%
+         family={Hirano},
+         familyi={H\bibinitperiod},
+         given={Keisuke},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=IGW}{%
+         family={Imbens},
+         familyi={I\bibinitperiod},
+         given={Guido\bibnamedelima W.},
+         giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, Ltd}%
+    }
+    \strng{namehash}{HKIGW1}
+    \strng{fullhash}{HKIGW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{Wiley {Series} in {Probability} and {Statistics}}
+    \verb{doi}
+    \verb 10.1002/0470090456.ch7
+    \endverb
+    \field{title}{The {Propensity} {Score} with {Continuous} {Treatments}}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/10.1002/0470090456.ch7
+    \endverb
+    \verb{file}
+    \verb Hirano and Imbens - 2005 - The Propensity Score with Continuous Treat
+    \verb ments.pdf:/Users/marco/Zotero/storage/UC69LNNT/Hirano and Imbens - 20
+    \verb 05 - The Propensity Score with Continuous Treatments.pdf:application/
+    \verb pdf
+    \endverb
+    \field{year}{2004}
+    \field{urlday}{19}
     \field{urlmonth}{04}
     \field{urlyear}{2023}
   \endentry
@@ -1120,6 +1199,54 @@
     \field{year}{2022}
     \field{urlday}{04}
     \field{urlmonth}{07}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{kobrosly_causal-curve_2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KR}{%
+         family={Kobrosly},
+         familyi={K\bibinitperiod},
+         given={Roni},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{KR1}
+    \strng{fullhash}{KR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    In academia and industry, randomized controlled experiments (colloquially “A/B tests”) are considered the gold standard approach for assessing the impact of a treatment or intervention. However, for ethical or financial reasons, these experiments may not always be feasible to carry out. “Causal inference” methods are a set of approaches that attempt to estimate causal effects from observational rather than experimental data, correcting for the biases that are inherent to analyzing observational data (e.g. confounding and selection bias) (Hernán \& Robins, 2020).%
+    }
+    \verb{doi}
+    \verb 10.21105/joss.02523
+    \endverb
+    \field{issn}{2475-9066}
+    \field{number}{52}
+    \field{pages}{2523}
+    \field{shorttitle}{causal-curve}
+    \field{title}{causal-curve: {A} {Python} {Causal} {Inference} {Package} to {Estimate} {Causal} {Dose}-{Response} {Curves}}
+    \verb{url}
+    \verb https://joss.theoj.org/papers/10.21105/joss.02523
+    \endverb
+    \field{volume}{5}
+    \verb{file}
+    \verb Kobrosly - 2020 - causal-curve A Python Causal Inference Package to.p
+    \verb df:/Users/marco/Zotero/storage/D45IPBIB/Kobrosly - 2020 - causal-curv
+    \verb e A Python Causal Inference Package to.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Journal of Open Source Software}
+    \field{month}{08}
+    \field{year}{2020}
+    \field{urlday}{18}
+    \field{urlmonth}{04}
     \field{urlyear}{2023}
   \endentry
 
@@ -1336,6 +1463,58 @@
     \field{journaltitle}{SSRN Electronic Journal}
     \field{year}{2022}
     \field{urlday}{08}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{moodie_estimation_2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MEE}{%
+         family={Moodie},
+         familyi={M\bibinitperiod},
+         given={Erica\bibnamedelima EM},
+         giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SDA}{%
+         family={Stephens},
+         familyi={S\bibinitperiod},
+         given={David\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MEESDA1}
+    \strng{fullhash}{MEESDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    In a longitudinal study of dose?response, it is often necessary to adjust for confounding or non-compliance, which may otherwise compromise the estimation of the true effect of a treatment. Using an approach based on the generalised propensity score (GPS) ? a generalisation of the classical, binary treatment propensity score ? it is possible to construct a balancing score that provides an estimation procedure for the true (unconfounded) direct effect of dose on response. Previously, the GPS has been applied only in a single interval setting; in this article, we extend the GPS methodology to the longitudinal setting to estimate the direct effect of a continuous dose on a longitudinal response. The methodology is applied to two simulated examples, and a real longitudinal dose?response investigation, the Monitored Occlusion Treatment of Amblyopia Study (MOTAS). In the treatment of childhood amblyopia, a common ophthalmological condition, occlusion therapy (patching) was for many decades the standard medical treatment, despite the fact that its efficacy was not quantified. MOTAS was revolutionary, as it was the first study to obtain precise measurements of the amount of occlusion each study participant received over the course of the study.%
+    }
+    \verb{doi}
+    \verb 10.1177/0962280209340213
+    \endverb
+    \field{issn}{0962-2802}
+    \field{note}{Publisher: SAGE Publications Ltd STM}
+    \field{number}{2}
+    \field{pages}{149\bibrangedash 166}
+    \field{title}{Estimation of dose–response functions for longitudinal data using the generalised propensity score}
+    \verb{url}
+    \verb https://doi.org/10.1177/0962280209340213
+    \endverb
+    \field{volume}{21}
+    \verb{file}
+    \verb Moodie and Stephens - 2012 - Estimation of dose–response functions
+    \verb for longitud.pdf:/Users/marco/Zotero/storage/MH9NARWN/Moodie and Step
+    \verb hens - 2012 - Estimation of dose–response functions for longitud.pd
+    \verb f:application/pdf
+    \endverb
+    \field{journaltitle}{Statistical Methods in Medical Research}
+    \field{month}{04}
+    \field{year}{2012}
+    \field{urlday}{25}
     \field{urlmonth}{04}
     \field{urlyear}{2023}
   \endentry
@@ -1640,6 +1819,48 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{rosenbaum_central_1983}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RPR}{%
+         family={Rosenbaum},
+         familyi={R\bibinitperiod},
+         given={Paul\bibnamedelima R},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RDB}{%
+         family={Rubin},
+         familyi={R\bibinitperiod},
+         given={Donald\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{RPRRDB1}
+    \strng{fullhash}{RPRRDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    The propensity score is the conditional probability of assignment to a particular treatment given a vector of observed covariates. Both large and small sample theory show that adjustment for the scalar propensity score is sufficient to remove bias due to all observed covariates. Applications include: (i) matched sampling on the univariate propensity score, which is a generalization of discriminant matching, (ii) multivariate adjustment by subclassification on the propensity score where the same subclasses are used to estimate treatment effects for all outcome variables and in all subpopulations, and (iii) visual representation of multivariate covariance adjustment by a twodimensional plot.%
+    }
+    \field{number}{1}
+    \field{pages}{41\bibrangedash 55}
+    \field{title}{The central role of the propensity score in observational studies for causal effects}
+    \field{volume}{70}
+    \verb{file}
+    \verb Rosenbaum and Rubin - The central role of the propensity score in obs
+    \verb erv.pdf:/Users/marco/Zotero/storage/VIH28YF6/Rosenbaum and Rubin - Th
+    \verb e central role of the propensity score in observ.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Biometrika}
+    \field{year}{1983}
+  \endentry
+
   \entry{stien_covid-19_2022}{thesis}{}
     \name{author}{2}{}{%
       {{hash=SH}{%
@@ -1793,6 +2014,75 @@
     \field{month}{11}
     \field{year}{2021}
     \field{urlday}{10}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{wu_matching_2021}{misc}{}
+    \name{author}{5}{}{%
+      {{hash=WX}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Xiao},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mealli},
+         familyi={M\bibinitperiod},
+         given={Fabrizia},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=KMA}{%
+         family={Kioumourtzoglou},
+         familyi={K\bibinitperiod},
+         given={Marianthi-Anna},
+         giveni={M\bibinithyphendelim A\bibinitperiod},
+      }}%
+      {{hash=DF}{%
+         family={Dominici},
+         familyi={D\bibinitperiod},
+         given={Francesca},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Braun},
+         familyi={B\bibinitperiod},
+         given={Danielle},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {arXiv}%
+    }
+    \keyw{Statistics - Methodology, Statistics - Applications}
+    \strng{namehash}{WX+1}
+    \strng{fullhash}{WXMFKMADFBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    In the context of a binary treatment, matching is a well-established approach in causal inference. However, in the context of a continuous treatment or exposure, matching is still underdeveloped. We propose an innovative matching approach to estimate an average causal exposure-response function under the setting of continuous exposures that relies on the generalized propensity score (GPS). Our approach maintains the following attractive features of matching: a) clear separation between the design and the analysis; b) robustness to model misspecification or to the presence of extreme values of the estimated GPS; c) straightforward assessment of covariate balance. We first introduce an assumption of identifiability, called local weak unconfoundedness. Under this assumption and mild smoothness conditions, we provide theoretical guarantees that our proposed matching estimator attains point-wise consistency and asymptotic normality. In simulations, our proposed matching approach outperforms existing methods under settings of model misspecification or the presence of extreme values of the estimated GPS. We apply our proposed method to estimate the average causal exposure-response function between long-term PM\$\_\{2.5\}\$ exposure and all-cause mortality among 68.5 million Medicare enrollees, 2000-2016. We found strong evidence of a harmful effect of long-term PM\$\_\{2.5\}\$ exposure on mortality. Code for the proposed matching approach is provided in the CausalGPS R package, which is available on CRAN and provides a computationally efficient implementation.%
+    }
+    \field{note}{arXiv:1812.06575 [stat]}
+    \field{title}{Matching on {Generalized} {Propensity} {Scores} with {Continuous} {Exposures}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1812.06575
+    \endverb
+    \verb{file}
+    \verb arXiv Fulltext PDF:/Users/marco/Zotero/storage/2GWC3Y4Z/Wu et al. - 2
+    \verb 021 - Matching on Generalized Propensity Scores with Con.pdf:applicat
+    \verb ion/pdf;arXiv.org Snapshot:/Users/marco/Zotero/storage/2HR46XLU/1812.
+    \verb html:text/html
+    \endverb
+    \field{annotation}{%
+    Comment: Code for the GPS matching approach is provided in the CausalGPS R package, which is available on CRAN. The Github website (https://github.com/wxwx1993/GPSmatching) also contains tutorials and examples to use the R package%
+    }
+    \field{month}{08}
+    \field{year}{2021}
+    \field{urlday}{21}
     \field{urlmonth}{04}
     \field{urlyear}{2023}
   \endentry
