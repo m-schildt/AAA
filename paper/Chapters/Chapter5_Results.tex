@@ -31,7 +31,7 @@ This could indicate that the recovery of the indebtedness of beneficiaries in 20
 \makebox[\textwidth][c]{\includegraphics[width=1.3\columnwidth]{Figures/chart_ratios}}%
 
 \decoRule
-\caption[Balance sheet ratios]{Boxplots with balance sheet ratios from the obained dataset. Extreme outliers above the maximum values are not shown.}
+\caption[Indicators of liquidity and solvency 2019-2021]{Boxplots with balance sheet ratios from the obained dataset. Extreme outliers above the maximum values are not shown.}
 \label{fig:Ratios}
 \end{figure}
 
@@ -46,14 +46,13 @@ This could indicate that the recovery of the indebtedness of beneficiaries in 20
 In total 953 insolvent firms were identified representing a share of 0.92 \% of all beneficiaries of pandemic aid from transparency database, as shown in table \ref{tab:InsBySize}. A further breakdown reveals that the share of SMEs is significantly lower than their larger counterparts. Due to the fact that the transparency database only provides very few beneficiaries with aid payments below 100.000 EUR, smaller companies with aid below the threshold are not well represented. Therefore, the numbers only give an indication.
 
 \begin{table}
-    \caption{Share of insolvent aid  beneficiaries by size}
-    \label{tab:InsBySize}
-    \centering
-    \def\arraystretch{1.2}
-    \centering
-    \input{{Tables/table_InsBySize.tex}}
+\caption{Share of insolvent aid  beneficiaries by size}
+\label{tab:InsBySize}
+\centering
 
-    \small  Notes: 
+\def\arraystretch{1.2}
+\centering
+\input{{Tables/table_InsBySize.tex}}
 
 \end{table}
 
@@ -69,7 +68,7 @@ Similarly, the accommodation sectors is highly represented. With only 24 insolve
     \centering
     \input{{Tables/table_InsByIndustry_short.tex}}
 
-    \small  Notes: Tables shows industries with more than 3000 beneficiaries and is sorted by insolvencies.
+    \small  Notes: Table shows industries with more than 3000 beneficiaries and is sorted by insolvencies.
 
 \end{table}
 
@@ -86,7 +85,7 @@ The debt-to-asset-ratio comparison also shows a clear gap between both groups. T
     \makebox[\textwidth][c]{\includegraphics[width=1.2\columnwidth]{Figures/chart_ratios_insolvence}}%
     
     \decoRule
-    \caption[Balance sheet ratios]{Boxplot with balance sheet ratios from the obained dataset.}
+    \caption[Liquidity and solvency of insolvent beneficiaries]{Boxplot with balance sheet ratios from the obained dataset.}
     \label{fig:RatiosInsolvency}
 \end{figure}
 
@@ -147,7 +146,7 @@ The higher debt-to-asset-ratio could also be an indication of that these compani
         
 
 \begin{table}
-    \caption{Government aid impact on ratios}
+    \caption{Government aid impact on ratios of insolvent beneficiaries}
     \label{tab:DiDresultsInsolvent}
     \centering
     \def\arraystretch{1.2}
@@ -168,5 +167,41 @@ The higher debt-to-asset-ratio could also be an indication of that these compani
 \section{Causal Curve}
 
 
- 
+\begin{figure}
+    \centering
+    \makebox[\textwidth][c]{\includegraphics[width=1\columnwidth]{Figures/causal_curves1}}
     
+    \decoRule
+    \caption[Response curves for grants and loans]{Estimated Dose Response Functions, for liquidity (cash) from grants 2021 (top) and loans 2020 (bottom) in relative (left) and absolt (right) terms with 95\% Confidence Bands. For Binomial Distributed Data. The estimate of absolut varitants used a lognormal GLM for the GPS estimation due to different distribution of the variables.}
+    \label{fig:Curve1}
+\end{figure}
+
+
+\begin{figure}
+    \centering
+    \makebox[\textwidth][c]{\includegraphics[width=1\columnwidth]{Figures/causal_curves2.png}}
+    
+    \decoRule
+    \caption[Response curves for indebtedness through aid]{Estimated Dose Response Functions, for the debt-to-asset ratio from grants 2021 and loans 2021 in relative terms with 95\% Confidence Bands}
+    \label{fig:Curve2}
+\end{figure}
+
+
+\begin{figure}
+    \centering
+    \makebox[\textwidth][c]{\includegraphics[width=1\columnwidth]{Figures/causal_curves_industries1.png}}
+    
+    \decoRule
+    \caption[Response curves for liquidity through aid - by sectors 1]{Estimated Dose Response Functions, for the cash ratio from grants 2021 in selected industries in relative terms with 95\% Confidence Bands}
+    \label{fig:Curve3}
+\end{figure}
+
+
+\begin{figure}
+    \centering
+    \makebox[\textwidth][c]{\includegraphics[width=1\columnwidth]{Figures/causal_curves_industries2.png}}
+    
+    \decoRule
+    \caption[Response curves for liquidity through aid - by sectors 2]{Estimated Dose Response Functions, for the cash ratio from grants 2021 in selected industries in relative terms with 95\% Confidence Bands}
+    \label{fig:Curve4}
+\end{figure}
