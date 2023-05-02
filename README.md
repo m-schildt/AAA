@@ -8,7 +8,7 @@ The analysis of insolvencies amongst aid beneficiaries suggests that they were a
 Finally, the data granularity has been exploited with a combination of generalized propensity scores and a generalized linear model (GLM) to advance the assessment from a binary to a continuous treatment perspective. Overall, the visualizations are in line with the results from the previous DiD approach and don’t show any concerning abnormalities. In greater detail, the visualization reveals heterogeneity amongst beneficiaries from different industries, which connects with the observed heterogeneity in insolvencies of different industries.
 
 ## Topic
-Topic: **The effect of government support during the COVID-19 pandemic: Firm-level evidence from Germany**  
+**The effect of government support during the COVID-19 pandemic: Firm-level evidence from Germany**  
 
 The project comprises the following components:
 1. Data set creation by matching information from the European state aid transparency database of beneficiaries with data from the Bundesanzeiger
