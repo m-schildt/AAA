@@ -17,9 +17,12 @@ The project comprises the following components:
  
 
 ## Key Insights
-<img src="https://github.com/m-schildt/AAA/blob/main/paper/Figures/causal_curves1.png?raw=true" alt="Alt text" title="Optional title">
 
 <img src="https://github.com/m-schildt/AAA/blob/main/paper/Figures/chart_ratios_insolvence.png?raw=true?raw=true" alt="Alt text" title="Boxplots with balance sheet ratios from the obtained dataset">
+
+<img src="https://github.com/m-schildt/AAA/blob/main/paper/Figures/causal_curves1.png?raw=true" alt="Alt text" title="Optional title">
+
+
 
 
 ## Data
