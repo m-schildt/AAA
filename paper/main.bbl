@@ -1360,55 +1360,6 @@
     \field{urlyear}{2023}
   \endentry
 
-  \entry{konings_impact_2022}{report}{}
-    \name{author}{3}{}{%
-      {{hash=KJ}{%
-         family={Konings},
-         familyi={K\bibinitperiod},
-         given={Jozef},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=MG}{%
-         family={Magerman},
-         familyi={M\bibinitperiod},
-         given={Glenn},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=EDV}{%
-         family={Esbroeck},
-         familyi={E\bibinitperiod},
-         given={Dieter\bibnamedelima Van},
-         giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{KJMGEDV1}
-    \strng{fullhash}{KJMGEDV1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2022}
-    \field{labeldatesource}{}
-    \field{sortinit}{K}
-    \field{sortinithash}{K}
-    \field{abstract}{%
-    We analyze the impact of Covid-19 rescue policies on both ﬁrm-level and aggregate productivity growth and reallocation. Using administrative data on the universe of ﬁrms’ subsidies in Flanders, we estimate the causal impact of these subsidies on ﬁrm-level outcomes. Firms that received subsidies saw a 7\% increase in productivity, compared to ﬁrms that applied for, but did not obtain subsidies. Furthermore, the propensity to exit the market was 43\% lower for treated ﬁrms. Aggregate productivity growth, a share-weighted sum of ﬁrms’ productivity growth rates, amounted to 6\% in 2020. While within-ﬁrm productivity growth was similar for both subsidized and non-subsidized ﬁrms, there is a reallocation of market shares from subsidized ﬁrms to non-subsidized ﬁrms. These results suggest that Covid rescue policies helped ﬁrms to sustain and preserve productivity, while not obstructing allocative efﬁciency gains to non-subsidized ﬁrms.%
-    }
-    \field{number}{2022/06}
-    \field{title}{The {Impact} of {Firm}-level {Covid} {Rescue} {Policies} on {Productivity} {Growth} and {Reallocation}}
-    \list{institution}{1}{%
-      {Nazarbayev University, Graduate School of Business}%
-    }
-    \verb{file}
-    \verb Konings et al. - The Impact of Firm-level Covid Rescue Policies on .p
-    \verb df:/Users/marco/Zotero/storage/5CNLHLWF/Konings et al. - The Impact o
-    \verb f Firm-level Covid Rescue Policies on .pdf:application/pdf
-    \endverb
-    \field{type}{Working {Papers}}
-    \field{year}{2022}
-  \endentry
-
   \entry{lalinsky_distribution_2021}{article}{}
     \name{author}{2}{}{%
       {{hash=LT}{%
@@ -2053,73 +2004,6 @@
     \verb pdf
     \endverb
     \field{year}{2020}
-  \endentry
-
-  \entry{turkson_government_2021}{article}{}
-    \name{author}{4}{}{%
-      {{hash=TD}{%
-         family={Turkson},
-         familyi={T\bibinitperiod},
-         given={Danny},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=ANB}{%
-         family={Addai},
-         familyi={A\bibinitperiod},
-         given={Nana\bibnamedelima Boakyewaa},
-         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-      {{hash=CF}{%
-         family={Chowdhury},
-         familyi={C\bibinitperiod},
-         given={Farhat},
-         giveni={F\bibinitperiod},
-      }}%
-      {{hash=MF}{%
-         family={Mohammed},
-         familyi={M\bibinitperiod},
-         given={Fatima},
-         giveni={F\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \keyw{COVID-19 pandemic, Firm performance, Italy, Sales revenue}
-    \strng{namehash}{TD+1}
-    \strng{fullhash}{TDANBCFMF1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{shorttitle}
-    \field{labelyear}{2021}
-    \field{labeldatesource}{}
-    \field{sortinit}{T}
-    \field{sortinithash}{T}
-    \field{abstract}{%
-    The effect of the COVID-19 pandemic has been severely detrimental to most firms. Preliminary estimates from Italy, which experienced the worst devastation from the virus during the early days of the pandemic, predicted that the country could lose at least \$8.3 bn in the service and manufacturing sectors due to the coronavirus pandemic. Although there has been a series of ongoing government policies to mitigate the economic effect of the pandemic, we do not know to what extent these policies have been effective. Using two-period panel data (before and during the pandemic) on 419 Italian firms, this study examines the impact of government policies on firms using first difference estimation. The results show that firms that received a government grant in relation to the COVID-19 pandemic saw on average an 11\% increase in sales revenue by the end of June 2020 compared to those yet to receive grants. A sectoral decomposition of the analysis indicates government policy to be effective in the services sector if performance is measured by sales revenue.%
-    }
-    \verb{doi}
-    \verb 10.1007/s43546-021-00170-6
-    \endverb
-    \field{issn}{2662-9399}
-    \field{number}{12}
-    \field{pages}{168}
-    \field{shorttitle}{Government policies and firm performance in the {COVID}-19 pandemic era}
-    \field{title}{Government policies and firm performance in the {COVID}-19 pandemic era: a sectoral analysis}
-    \verb{url}
-    \verb https://doi.org/10.1007/s43546-021-00170-6
-    \endverb
-    \field{volume}{1}
-    \verb{file}
-    \verb Full Text PDF:/Users/marco/Zotero/storage/YDEE8M83/Turkson et al. - 2
-    \verb 021 - Government policies and firm performance in the CO.pdf:applicat
-    \verb ion/pdf
-    \endverb
-    \field{journaltitle}{SN Business \& Economics}
-    \field{month}{11}
-    \field{year}{2021}
-    \field{urlday}{10}
-    \field{urlmonth}{04}
-    \field{urlyear}{2023}
   \endentry
 
   \entry{wu_matching_2021}{misc}{}

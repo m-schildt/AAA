@@ -1,37 +1,43 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Executive Summary}{i}{section*.1}%
 \contentsline {chapter}{\numberline {1}Introduction to the Government Support in Germany}{1}{chapter.7}%
-\contentsline {chapter}{\numberline {2}Literature Review}{4}{chapter.8}%
-\contentsline {section}{\numberline {2.1}Pandemic effects}{4}{section.9}%
-\contentsline {section}{\numberline {2.2}Government support effects}{6}{section.10}%
-\contentsline {chapter}{\numberline {3}Data Sources}{9}{chapter.11}%
-\contentsline {section}{\numberline {3.1}Data on Government support}{9}{section.12}%
-\contentsline {section}{\numberline {3.2}Company level financial information}{9}{section.13}%
-\contentsline {section}{\numberline {3.3}Insolvency information}{11}{section.15}%
-\contentsline {chapter}{\numberline {4}Methods}{12}{chapter.16}%
-\contentsline {section}{\numberline {4.1}Balance Sheet Ratios}{12}{section.17}%
-\contentsline {subsection}{\numberline {4.1.1}Liquidity Ratios}{12}{subsection.18}%
-\contentsline {subsection}{\numberline {4.1.2}Solvency Ratios}{13}{subsection.19}%
-\contentsline {section}{\numberline {4.2}Difference-in-Differences}{13}{section.21}%
-\contentsline {section}{\numberline {4.3}Causal Curve}{15}{section.25}%
-\contentsline {chapter}{\numberline {5}Results}{18}{chapter.28}%
-\contentsline {section}{\numberline {5.1}Data insights on beneficiaries}{18}{section.29}%
-\contentsline {subsection}{\numberline {5.1.1}Liquidity}{18}{subsection.30}%
-\contentsline {subsection}{\numberline {5.1.2}Solvency}{19}{subsection.31}%
-\contentsline {subsection}{\numberline {5.1.3}Insolvencies of beneficiaries}{19}{subsection.33}%
-\contentsline {subsection}{\numberline {5.1.4}Ratios of insolvencies}{21}{subsection.36}%
-\contentsline {section}{\numberline {5.2}The effect of government support}{21}{section.38}%
-\contentsline {subsection}{\numberline {5.2.1}The average effect on firm liquidity}{21}{subsection.39}%
-\contentsline {subsection}{\numberline {5.2.2}The average effect on solvency of firms}{22}{subsection.40}%
-\contentsline {subsection}{\numberline {5.2.3}Aid effect on companies that later become insolvent}{23}{subsection.42}%
-\contentsline {section}{\numberline {5.3}Causal Curve}{24}{section.44}%
-\contentsline {subsection}{\numberline {5.3.1}The relationship of liquidity and aid}{24}{subsection.45}%
-\contentsline {subsection}{\numberline {5.3.2}The relationship of solvency and aid}{26}{subsection.47}%
-\contentsline {chapter}{\numberline {6}Conclusion}{29}{chapter.51}%
-\contentsline {section}{\numberline {6.1}Policy Implications}{29}{section.52}%
-\contentsline {section}{\numberline {6.2}Conclusion}{30}{section.53}%
-\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{32}{appendix.54}%
-\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{32}{section.55}%
-\contentsline {chapter}{\numberline {B}Full list of insolvent aid beneficiaries by industry}{34}{appendix.57}%
-\contentsline {chapter}{Bibliography}{36}{appendix*.59}%
-\contentsline {chapter}{Statement of Authorship}{42}{section*.60}%
+\contentsline {chapter}{\numberline {2}Literature Review}{4}{chapter.9}%
+\contentsline {section}{\numberline {2.1}Pandemic effects}{4}{section.10}%
+\contentsline {section}{\numberline {2.2}Government support effects}{6}{section.11}%
+\contentsline {chapter}{\numberline {3}Data Sources}{9}{chapter.12}%
+\contentsline {section}{\numberline {3.1}Data on Government support}{9}{section.13}%
+\contentsline {section}{\numberline {3.2}Company level financial information}{9}{section.14}%
+\contentsline {section}{\numberline {3.3}Insolvency information}{10}{section.16}%
+\contentsline {chapter}{\numberline {4}Methods}{12}{chapter.17}%
+\contentsline {section}{\numberline {4.1}Balance Sheet Ratios}{12}{section.18}%
+\contentsline {subsection}{\numberline {4.1.1}Liquidity Ratios}{12}{subsection.19}%
+\contentsline {subsection}{\numberline {4.1.2}Solvency Ratios}{13}{subsection.20}%
+\contentsline {section}{\numberline {4.2}Difference-in-Differences}{13}{section.22}%
+\contentsline {section}{\numberline {4.3}Causal Curve}{15}{section.26}%
+\contentsline {chapter}{\numberline {5}Results}{18}{chapter.29}%
+\contentsline {section}{\numberline {5.1}Data insights on beneficiaries}{18}{section.30}%
+\contentsline {subsection}{\numberline {5.1.1}Liquidity}{18}{subsection.31}%
+\contentsline {subsection}{\numberline {5.1.2}Solvency}{19}{subsection.32}%
+\contentsline {subsection}{\numberline {5.1.3}Insolvencies of beneficiaries}{19}{subsection.34}%
+\contentsline {subsection}{\numberline {5.1.4}Ratios of insolvencies}{21}{subsection.37}%
+\contentsline {section}{\numberline {5.2}The effect of government support}{21}{section.39}%
+\contentsline {subsection}{\numberline {5.2.1}The average effect on firm liquidity}{21}{subsection.40}%
+\contentsline {subsection}{\numberline {5.2.2}The average effect on solvency of firms}{22}{subsection.41}%
+\contentsline {subsection}{\numberline {5.2.3}Aid effect on companies that later become insolvent}{23}{subsection.43}%
+\contentsline {section}{\numberline {5.3}Causal Curve}{24}{section.45}%
+\contentsline {subsection}{\numberline {5.3.1}The relationship between liquidity and aid}{24}{subsection.46}%
+\contentsline {subsection}{\numberline {5.3.2}The relationship of solvency and aid}{25}{subsection.48}%
+\contentsline {chapter}{\numberline {6}Conclusion}{28}{chapter.51}%
+\contentsline {section}{\numberline {6.1}Policy Implications}{28}{section.52}%
+\contentsline {section}{\numberline {6.2}Conclusion}{29}{section.53}%
+\contentsline {chapter}{\numberline {A}Appendix A}{31}{appendix.54}%
+\contentsline {section}{\numberline {A.1}Complete coefficients for government aid impact on ratios}{31}{section.55}%
+\contentsline {chapter}{\numberline {B}Appendix B}{33}{appendix.57}%
+\contentsline {section}{\numberline {B.1}Full list of insolvent aid beneficiaries by industry}{33}{section.58}%
+\contentsline {chapter}{\numberline {C}Appendix C}{35}{appendix.60}%
+\contentsline {section}{\numberline {C.1}Figure 5.3 with full Axis range}{35}{section.61}%
+\contentsline {section}{\numberline {C.2}Figure 5.4 with full Axis range}{35}{section.63}%
+\contentsline {section}{\numberline {C.3}Figure 5.5 with full Axis range}{35}{section.65}%
+\contentsline {section}{\numberline {C.4}Dose curves from addtional industries}{35}{section.67}%
+\contentsline {chapter}{Bibliography}{39}{appendix*.70}%
+\contentsline {chapter}{Statement of Authorship}{44}{section*.71}%

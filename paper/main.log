@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  2 MAY 2023 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  2 MAY 2023 23:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -646,7 +646,7 @@ Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 93.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-) (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux))
+) (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux) (./Appendices/AppendixB.aux) (./Appendices/AppendixC.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
@@ -837,7 +837,7 @@ Chapter 1.
 
 
 ] [2]
-Overfull \hbox (2.98pt too wide) in paragraph at lines 40--41
+Overfull \hbox (2.98pt too wide) in paragraph at lines 38--39
 []\T1/ppl/m/n/12 Second, an ap-proach with gen-er-al-ized propen-sity scores is adopted, which
  []
 
@@ -869,10 +869,10 @@ Chapter 3.
 
 
 ]
-<Figures/FirmSizes.png, id=390, 578.16pt x 216.81pt>
+<Figures/FirmSizes.png, id=426, 578.16pt x 216.81pt>
 File: Figures/FirmSizes.png Graphic file (type png)
 <use Figures/FirmSizes.png>
-Package pdftex.def Info: Figures/FirmSizes.png  used on input line 40.
+Package pdftex.def Info: Figures/FirmSizes.png  used on input line 39.
 (pdftex.def)             Requested size: 404.02908pt x 151.51122pt.
  [10 <./Figures/FirmSizes.png>]) [11]
 \openout2 = `Chapters/Chapter4_Methods.aux'.
@@ -897,23 +897,18 @@ Chapter 5.
 
 
 ]
-<Figures/chart_ratios.png, id=470, 867.24pt x 289.08pt>
+<Figures/chart_ratios.png, id=506, 867.24pt x 289.08pt>
 File: Figures/chart_ratios.png Graphic file (type png)
 <use Figures/chart_ratios.png>
 Package pdftex.def Info: Figures/chart_ratios.png  used on input line 31.
 (pdftex.def)             Requested size: 525.23903pt x 175.08582pt.
-
-Underfull \hbox (badness 1189) in paragraph at lines 34--34
- []\T1/ppl/m/sc/10.95 Figure 5.1: |\T1/ppl/m/n/10.95 Box-plots with bal-ance sheet ra-tios from the 
- []
-
-[19 <./Figures/chart_ratios.png>] (./Tables/table_InsBySize.tex) (./Tables/table_InsByIndustry_short.tex)
+ [19 <./Figures/chart_ratios.png>] (./Tables/table_InsBySize.tex) (./Tables/table_InsByIndustry_short.tex)
 Overfull \hbox (11.32265pt too wide) in paragraph at lines 1--70
  [][] 
  []
 
 [20]
-<Figures/chart_ratios_insolvence.png, id=486, 650.43pt x 289.08pt>
+<Figures/chart_ratios_insolvence.png, id=522, 650.43pt x 289.08pt>
 File: Figures/chart_ratios_insolvence.png Graphic file (type png)
 <use Figures/chart_ratios_insolvence.png>
 Package pdftex.def Info: Figures/chart_ratios_insolvence.png  used on input line 85.
@@ -924,75 +919,117 @@ Overfull \hbox (4.14676pt too wide) in paragraph at lines 108--110
  []
 
 [21 <./Figures/chart_ratios_insolvence.png>] [22] (./Tables/table_did.tex) [23] (./Tables/table_did_insolv.tex)
-Overfull \hbox (3.69876pt too wide) in paragraph at lines 174--175
-[]\T1/ppl/m/n/12 The rel-a-tive il-lus-tra-tions show the mod-elled re-la-tion be-tween the ob-served
+Overfull \hbox (0.20688pt too wide) in paragraph at lines 174--175
+[]\T1/ppl/m/n/12 The rel-a-tive il-lus-tra-tions show the mod-eled re-la-tion be-tween the ob-served
  []
 
 [24]
-<Figures/causal_curves1.png, id=509, 570.6921pt x 325.215pt>
+<Figures/causal_curves1.png, id=545, 570.6921pt x 325.215pt>
 File: Figures/causal_curves1.png Graphic file (type png)
 <use Figures/causal_curves1.png>
 Package pdftex.def Info: Figures/causal_curves1.png  used on input line 187.
 (pdftex.def)             Requested size: 404.02908pt x 230.2393pt.
- [25 <./Figures/causal_curves1.png>]
-<Figures/causal_curves2.png, id=516, 570.6921pt x 192.2382pt>
+<Figures/causal_curves2.png, id=547, 570.6921pt x 192.2382pt>
 File: Figures/causal_curves2.png Graphic file (type png)
 <use Figures/causal_curves2.png>
 Package pdftex.def Info: Figures/causal_curves2.png  used on input line 206.
 (pdftex.def)             Requested size: 404.02908pt x 136.097pt.
-<Figures/causal_curves_industries1.png, id=523, 570.6921pt x 325.215pt>
+ [25] [26 <./Figures/causal_curves1.png> <./Figures/causal_curves2.png>]
+
+LaTeX Warning: Reference `fig:Curve4' on page 27 undefined on input line 221.
+
+<Figures/causal_curves_industries1.png, id=563, 570.6921pt x 325.215pt>
 File: Figures/causal_curves_industries1.png Graphic file (type png)
 <use Figures/causal_curves_industries1.png>
-Package pdftex.def Info: Figures/causal_curves_industries1.png  used on input line 230.
+Package pdftex.def Info: Figures/causal_curves_industries1.png  used on input line 228.
 (pdftex.def)             Requested size: 404.02908pt x 230.2393pt.
- [26 <./Figures/causal_curves2.png>]
-<Figures/causal_curves_industries2.png, id=529, 570.6921pt x 325.215pt>
-File: Figures/causal_curves_industries2.png Graphic file (type png)
-<use Figures/causal_curves_industries2.png>
-Package pdftex.def Info: Figures/causal_curves_industries2.png  used on input line 240.
-(pdftex.def)             Requested size: 404.02908pt x 230.2393pt.
-) [27 <./Figures/causal_curves_industries1.png>] [28 <./Figures/causal_curves_industries2.png>]
+) [27 <./Figures/causal_curves_industries1.png>]
 \openout2 = `Chapters/Chapter6_Conclusion.aux'.
 
  (./Chapters/Chapter6_Conclusion.tex
 Chapter 6.
 1: section
-[29
+[28
 
 
 
 
-] [30]) [31]
+]) [29] [30]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (./Appendices/AppendixA.tex
 Appendix A.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-) (./Tables/table_did_all.tex)
-Overfull \hbox (57.12807pt too wide) in paragraph at lines 1--35
- [][] 
- []
-
-1: section
-[32
-
-
-
-
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [33]
-Appendix B.
-(./Tables/table_InsByIndustry.tex)
-Overfull \hbox (28.05067pt too wide) in paragraph at lines 1--54
+(./Tables/table_did_all.tex)
+Overfull \hbox (57.12807pt too wide) in paragraph at lines 1--17
  [][] 
  []
 
 )
 1: section
-[34
+[31
 
-] [35]
+
+
+
+] [32]
+\openout2 = `Appendices/AppendixB.aux'.
+
+ (./Appendices/AppendixB.tex
+Appendix B.
+(./Tables/table_InsByIndustry.tex)
+Overfull \hbox (28.05067pt too wide) in paragraph at lines 1--15
+ [][] 
+ []
+
+)
+1: section
+[33
+
+
+
+
+] [34]
+\openout2 = `Appendices/AppendixC.aux'.
+
+ (./Appendices/AppendixC.tex
+Appendix C.
+<Figures/causal_curves1_raw.png, id=600, 555.7563pt x 325.215pt>
+File: Figures/causal_curves1_raw.png Graphic file (type png)
+<use Figures/causal_curves1_raw.png>
+Package pdftex.def Info: Figures/causal_curves1_raw.png  used on input line 16.
+(pdftex.def)             Requested size: 404.02908pt x 236.42738pt.
+<Figures/causal_curves2_raw.png, id=601, 570.6921pt x 192.2382pt>
+File: Figures/causal_curves2_raw.png Graphic file (type png)
+<use Figures/causal_curves2_raw.png>
+Package pdftex.def Info: Figures/causal_curves2_raw.png  used on input line 29.
+(pdftex.def)             Requested size: 404.02908pt x 136.097pt.
+<Figures/causal_curves_industries1_RAW.png, id=602, 566.115pt x 325.215pt>
+File: Figures/causal_curves_industries1_RAW.png Graphic file (type png)
+<use Figures/causal_curves_industries1_RAW.png>
+Package pdftex.def Info: Figures/causal_curves_industries1_RAW.png  used on input line 43.
+(pdftex.def)             Requested size: 404.02908pt x 232.10515pt.
+<Figures/causal_curves_industries2.png, id=603, 570.6921pt x 325.215pt>
+File: Figures/causal_curves_industries2.png Graphic file (type png)
+<use Figures/causal_curves_industries2.png>
+Package pdftex.def Info: Figures/causal_curves_industries2.png  used on input line 57.
+(pdftex.def)             Requested size: 404.02908pt x 230.2393pt.
+<Figures/causal_curves_industries2_raw.png, id=604, 570.6921pt x 325.215pt>
+File: Figures/causal_curves_industries2_raw.png Graphic file (type png)
+<use Figures/causal_curves_industries2_raw.png>
+Package pdftex.def Info: Figures/causal_curves_industries2_raw.png  used on input line 66.
+(pdftex.def)             Requested size: 404.02908pt x 230.2393pt.
+)
+1: section
+[35
+
+
+
+
+] [36 <./Figures/causal_curves1_raw.png> <./Figures/causal_curves2_raw.png>] [37 <./Figures/causal_curves_industries1_RAW.png> <./Figures/causal_curves_industries2.png>] [38 <./Figures/causal_curves_industries2_raw.png>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 240.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
 Overfull \hbox (51.45264pt too wide) in paragraph at lines 240--240
 \T1/ppl/m/n/12 BANK. \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / www . bvr . de / p . nsf / 0 / 31959EDD28C91416C1258916002CE183 /
  []
@@ -1018,11 +1055,11 @@ Overfull \hbox (29.4728pt too wide) in paragraph at lines 240--240
  []
 
 1: section
-[36
+[39
 
 
 
-]
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 Overfull \hbox (0.84306pt too wide) in paragraph at lines 240--240
 [][]\T1/ppl/m/n/12 Demmou, Lilas et al. (2021a). \T1/ppl/m/it/12 In-sol-vency and debt over-hang fol-low-ing the COVID-
  []
@@ -1037,7 +1074,7 @@ Overfull \hbox (33.39322pt too wide) in paragraph at lines 240--240
 \T1/cmtt/m/n/12 bundesbank . de / resource / blob / 827826 / 967001c31efc4ad77fed0abbe19f6ac0 /
  []
 
-[37]
+[40]
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 240.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
@@ -1046,7 +1083,7 @@ Overfull \hbox (12.97404pt too wide) in paragraph at lines 240--240
 [][]\T1/ppl/m/n/12 Julin, Ida Rommedahl, Alexan-der Meldgaard Otte, and An-dreas Kuch-ler (2021).
  []
 
-[38]
+[41]
 Overfull \hbox (21.27272pt too wide) in paragraph at lines 240--240
 \T1/ppl/m/n/12 0560. \T1/ppl/m/sc/12 doi\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 10 . 1016 / j . iref . 2023 . 03 . 038$[][]\T1/ppl/m/n/12 . \T1/ppl/m/sc/12 url\T1/ppl/m/n/12 : [][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect .
  []
@@ -1071,12 +1108,12 @@ Overfull \hbox (3.89142pt too wide) in paragraph at lines 240--240
 \T1/ppl/m/it/12 COVID-19: Lessons learned to ^^Pbuild back bet-ter^^Q\T1/ppl/m/n/12 . en. OECD Pol-icy Re-sponses
  []
 
-[39]
+[42]
 Overfull \hbox (14.83539pt too wide) in paragraph at lines 240--240
 \T1/ppl/m/n/12 propen-sity score in ob-ser-va-tional stud-ies for causal ef-fects^^Q. en. In: \T1/ppl/m/it/12 Biometrika
  []
 
-[40] [41]
+[43]
 --------------------
  Statement of Authorship
 --------------------
@@ -1101,28 +1138,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--263
  []
 
 1: section
-[42
+[44
 
-] (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux))
+] (./main.aux (./Chapters/Chapter1_SupOverview.aux) (./Chapters/Chapter2_LitRev.aux) (./Chapters/Chapter3_DataSource.aux) (./Chapters/Chapter4_Methods.aux) (./Chapters/Chapter5_Results.aux) (./Chapters/Chapter6_Conclusion.aux) (./Appendices/AppendixA.aux) (./Appendices/AppendixB.aux) (./Appendices/AppendixC.aux))
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 624739A13054B65B3D0269D7A1B1D69A;6399.
+(rerunfilecheck)             Checksum: CA606912E0C550C7875CE2151099DA19;7586.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29405 strings out of 476025
- 653306 string characters out of 5790018
+ 29514 strings out of 476025
+ 656475 string characters out of 5790018
  1871388 words of memory out of 5000000
- 49283 multiletter control sequences out of 15000+600000
- 557646 words of font info for 102 fonts, out of 8000000 for 9000
+ 49362 multiletter control sequences out of 15000+600000
+ 567145 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  96i,21n,93p,3344b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (49 pages, 1099051 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (51 pages, 1904585 bytes).
 PDF statistics:
- 775 PDF objects out of 1000 (max. 8388607)
- 685 compressed objects within 7 object streams
- 153 named destinations out of 1000 (max. 500000)
- 324 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 821 PDF objects out of 1000 (max. 8388607)
+ 722 compressed objects within 8 object streams
+ 164 named destinations out of 1000 (max. 500000)
+ 392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
