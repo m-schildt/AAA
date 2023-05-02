@@ -4,3 +4,4 @@
 *.pyc
 3_KPI_calculator_async.ipynb
 writing/
+!data_set.csv
