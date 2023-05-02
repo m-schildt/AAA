@@ -167,6 +167,21 @@ The higher debt-to-asset-ratio could also be an indication of that these compani
 \section{Causal Curve}
 
 
+\subsection{The relationship of liquidity and aid}
+
+The first implementation of the GPS methodology is used to compared the effects of grants in 2021 and loans in 2020 on firm liquidity in both relative (left) and absolute (right) terms. The respective visualizations are shown in figure \ref{fig:Curve1}. The choice was based on the findings from the previous section and data richness of these groups. 
+
+The relative illustrations show the modelled relation between the observed change in the cash ratio in dependence on the relative amount of aid in regard to beneficiaries' total assets. While the relative illustrations show the observed change in cash holdings and the aid amount in absolute terms. All illustrations use 95 \% confidence bands. 
+
+Moreover, axis ranges are cut to allow for comparison within the shared ranges in each figure. The full axis ranges significantly different between groups, depending underlying on in the data.
+
+What can be seen is that all curves show a clear upward trend till at least the middle of the observed ranges. Outstanding is the flattening curve in the bottom left in the second half of the range, while the other the continue the upward trend. However, the findings could be related to the loan program “KfW-Sonderprogramm” which was bound to pre pandemic revenue numbers in combination with fixed caps for the loan volumes. A diminishing effect could therefore appear for larger companies with loans that are capped by the fix thresholds. Since revenue can be considered as an alternative proxy for firm size, the diminishing effect could appear in the modelled relative relationship, but not in the absolute perspective.
+
+In respect to the grants in 2021 parallel trends of the absolute and the relative views indicate a positive relationship between the level of aid and the liquidity increase which would be in line with average causal effect of 7.7 \% measured by the DiD approach. 
+
+The drop in the curve of the relative view on loans in 2020 could be represented by the smaller average effect liquidity (5.3 \%) from the DiD approach Given the strong award trend in the absolute view, and the considerably positive coefficient still indicate a positive relationship.
+
+
 \begin{figure}
     \centering
     \makebox[\textwidth][c]{\includegraphics[width=1\columnwidth]{Figures/causal_curves1}}
@@ -177,6 +192,15 @@ The higher debt-to-asset-ratio could also be an indication of that these compani
 \end{figure}
 
 
+\subsection{The relationship of solvency and aid}
+
+
+Figure \ref{fig:Curve2} shows the estimated dose response curves for loans and grants in 2021 with their effect on the indebtedness represented by the debt-to-asset ratio.
+The downwards trend in the left side indicated a negative effect on the debt ratio like the DiD estimates (- 0.03 \%) and a opposing trend in the respective relationship of loans, which confirms the initial assumption on the solvency effects.
+
+
+
+
 \begin{figure}
     \centering
     \makebox[\textwidth][c]{\includegraphics[width=1\columnwidth]{Figures/causal_curves2.png}}
@@ -185,6 +209,20 @@ The higher debt-to-asset-ratio could also be an indication of that these compani
     \caption[Response curves for indebtedness through aid]{Estimated Dose Response Functions, for the debt-to-asset ratio from grants 2021 and loans 2021 in relative terms with 95\% Confidence Bands}
     \label{fig:Curve2}
 \end{figure}
+
+
+Figure \ref{fig:Curve3} show response curves for four selected industries that were used as example cases by \parencite{bischof_bedeutung_2021} for their assumption of heterogenous effects of grants between industries with different cost structures.
+
+
+From the four shows relations the food and beverage sector has the highest transmission according to \parencite{bischof_bedeutung_2021}, followed by the travel agency and tour operator sector and then the creative, arts and entertainment industry. Last, with the lowest factor is the industy of sports activities, amusement, and recreation.
+
+In regard to the estimated curves in figure \ref{fig:Curve3}, the food and beverage sector has the most narrow confidence bands and the clearest upwards trends, while the least positive effect on the cash ratio can be interpreted for the travel agency and tour operator sector. However, the curves are highly sensitive to specifications and the wavy and wide confidence bands are indicating limited statistical significance and thus doesn't allow a reliable judgement confirming or denying a connection between the observed effects and the transmission factors from \parencite{bischof_bedeutung_2021}. 
+
+Considering the additional industry curves from figure \ref{fig:Curve4} in appendix 1, it can only be cautiously conclude that the general assumption of heterogeneous effects between industries cannot be rejected with the results obtained.
+
+
+
+
 
 
 \begin{figure}
