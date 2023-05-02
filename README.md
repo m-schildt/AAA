@@ -11,9 +11,9 @@ Finally, the data granularity has been exploited with a combination of generaliz
 **The effect of government support during the COVID-19 pandemic: Firm-level evidence from Germany**  
 
 The project comprises the following components:
-1. Data set creation by matching information from the European state aid transparency database of beneficiaries with data from the Bundesanzeiger
-2. A DiD regression to measure the causal effect of aid instruments on the firm liquidity.
-3. A approach with generalized propensity scores (GPS) to provide a granular picture of the effects at different levels of aid
+1. Data set creation by matching information aid data and financial information on a firm-level
+2. Difference-in-Differences methodology to measure the causal effect of aid instruments on the firm liquidity.
+3. A Generalized Propensity Scores (GPS) to provide a granular picture of the effects at different levels of aid
  
 
 ## Key Insights
