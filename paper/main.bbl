@@ -286,6 +286,56 @@
     \field{urlyear}{2023}
   \endentry
 
+  \entry{carboni_effect_2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=COA}{%
+         family={Carboni},
+         familyi={C\bibinitperiod},
+         given={Oliviero\bibnamedelima A.},
+         giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Investment, Non-parametric estimation, Public subsidies, R\&D}
+    \strng{namehash}{COA1}
+    \strng{fullhash}{COA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    This paper investigates the effect of government support on investment and on R\&D expenditure. The empirical analysis is based on a large representative and cross-country comparative sample of manufacturing firms across seven European countries. Estimates from a non-parametric matching procedure suggest that public grants have a positive effect both on firms' investment and R\&D, implying that recipient firms spend more than they would have without public aid. This may suggest that the possibility of perfect crowding out between private and public funds can be rejected. More in detail, grants appear to consistently affect traditional investment and similarly, R\&D incentives have a positive impact on research spending. The paper also finds that grants trigger the use of long medium term credit suggesting that public policy may possibly help firms facing financial constraints and foster their growth. Finally, the analysis reveals some heterogeneity across the seven countries considered.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.techfore.2016.11.017
+    \endverb
+    \field{issn}{0040-1625}
+    \field{pages}{282\bibrangedash 295}
+    \field{shorttitle}{The effect of public support on investment and {R}\&{D}}
+    \field{title}{The effect of public support on investment and {R}\&{D}: {An} empirical evaluation on {European} manufacturing firms}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0040162516307016
+    \endverb
+    \field{volume}{117}
+    \verb{file}
+    \verb Carboni - 2017 - The effect of public support on investment and R&D.p
+    \verb df:/Users/marco/Zotero/storage/FMWKI9QN/Carboni - 2017 - The effect o
+    \verb f public support on investment and R&D.pdf:application/pdf;ScienceDir
+    \verb ect Snapshot:/Users/marco/Zotero/storage/PDFG7TSL/S0040162516307016.h
+    \verb tml:text/html
+    \endverb
+    \field{journaltitle}{Technological Forecasting and Social Change}
+    \field{month}{04}
+    \field{year}{2017}
+    \field{urlday}{25}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{chang_studying_2022}{article}{}
     \name{author}{3}{}{%
       {{hash=CL}{%
@@ -1859,6 +1909,60 @@
     \endverb
     \field{journaltitle}{Biometrika}
     \field{year}{1983}
+  \endentry
+
+  \entry{selebaj_effects_2021}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Selebaj},
+         familyi={S\bibinitperiod},
+         given={Domagoj},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bule},
+         familyi={B\bibinitperiod},
+         given={Matej},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{SDBM1}
+    \strng{fullhash}{SDBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    This paper quantifies the impact of grants from EU funds on non-financial corporations performance in Croatia. For the purposes of the research, three different data sources were used, which were merged into a single enterprise level database. Enterprises for the control group were selected using propensity score matching method, while the quantifications of effects in the years after receiving the support were estimated using difference in differences method. Also, the doseresponse relationship between the relative size of the received grant and the level of impact on performance indicators was assessed. The research showed that the use of EU funds has a strong and positive effect on the observed indicators, such as employment, operating income, labour productivity or total factor productivity and capital intensity. At the same time, the level of impact significantly depends on the relative size of grant received from EU funds.%
+    }
+    \verb{doi}
+    \verb 10.3326/pse.45.2.1
+    \endverb
+    \field{issn}{2459-8860}
+    \field{number}{2}
+    \field{pages}{177\bibrangedash 207}
+    \field{title}{Effects of grants from {EU} funds on business performance of non-financial corporations in {Croatia}}
+    \verb{url}
+    \verb http://www.pse-journal.hr/upload/files/pse/2021/2/1.pdf
+    \endverb
+    \field{volume}{45}
+    \verb{file}
+    \verb Croatian National Bank, Zagreb, Croatia et al. - 2021 - Effects of gr
+    \verb ants from EU funds on business perfor.pdf:/Users/marco/Zotero/storage
+    \verb /8D6RIMMH/Croatian National Bank, Zagreb, Croatia et al. - 2021 - Eff
+    \verb ects of grants from EU funds on business perfor.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Public Sector Economics}
+    \field{month}{06}
+    \field{year}{2021}
+    \field{urlday}{25}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
   \endentry
 
   \entry{stien_covid-19_2022}{thesis}{}
