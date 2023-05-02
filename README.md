@@ -1,4 +1,4 @@
-# Aid Appropriateness Assessment (Thesis)
+# Aid Appropriateness Assessment
 
 <img src="https://github.com/m-schildt/AAA/blob/main/paper/Figures/causal_curves2.png?raw=true" alt="Alt text" title="Optional title">
 
