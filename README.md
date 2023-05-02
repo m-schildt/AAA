@@ -28,13 +28,6 @@ The project comprises the following components:
 <img src="https://github.com/m-schildt/AAA/blob/main/paper/Figures/chart_ratios_insolvence.png?raw=true?raw=true" alt="Alt text" title="Boxplots with balance sheet ratios from the obtained dataset">
 
 
-## Dependencies
-* Python 3.9
-* numpy
-* pandas
-* matplotlib
-* ...
+## Full Thesis
+* here [a link](https://github.com/m-schildt/AAA/blob/main/paper/main.pdf)
 
-
-## License
-...
