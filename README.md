@@ -29,5 +29,5 @@ The project comprises the following components:
 
 
 ## Full Thesis
-* here [a link](https://github.com/m-schildt/AAA/blob/main/paper/main.pdf)
+* [here](https://github.com/m-schildt/AAA/blob/main/paper/main.pdf)
 
