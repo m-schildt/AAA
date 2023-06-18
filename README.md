@@ -1,7 +1,5 @@
 # Aid Appropriateness Assessment
 
-<img src="https://github.com/m-schildt/AAA/blob/main/paper/Figures/causal_curves2.png?raw=true" alt="Alt text" title="Optional title">
-
 <img src="https://github.com/m-schildt/AAA/blob/490c269a720721b737e1926e3b514dfc75479e67/Poster_PNG.png" alt="Alt text" title="Optional title">
 
 
