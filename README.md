@@ -2,6 +2,9 @@
 
 <img src="https://github.com/m-schildt/AAA/blob/main/paper/Figures/causal_curves2.png?raw=true" alt="Alt text" title="Optional title">
 
+
+[embed][http://example.com/file.pdf](https://github.com/m-schildt/AAA/blob/cbd91c3d2cbaee080a3d92fd4c08d1bc61be4162/Schildt_Marco_master_thesis_poster%20.pdf)[/embed]
+
 ## Topic
 **The effect of government support during the COVID-19 pandemic: Firm-level evidence from Germany**  
 
